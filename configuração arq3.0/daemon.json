@@ -1,0 +1,8 @@
+{
+ "bip": "192.168.203.129/25",
+ "mtu": 1500,
+ "ipv6": false,
+ "registry-mirrors": [ "https://atf.intranet.bb.com.br:5001"],
+ "dns-search": [ "servicos.bb.com.br", "intranet.bb.com.br", "dispositivos.bb.com.br"],
+ "insecure-registries": [ "registry.desenv.bb.com.br:5000", "harbor.servicos.bb.com.br", "atf.intranet.bb.com.br:5001", "atf.intranet.bb.com.br", "registry.labbs.com.br"]
+}

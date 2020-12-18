@@ -1,0 +1,49 @@
+
+
+ENTRADA
+
+
+             03 RQSC-CD-CLI                 PIC S9(009) COMP.
+
+
+
+
+SAIDA
+
+             03 RPST-QT-OCR-CLI             PIC S9(09) COMP.
+             03 RPST-LS-OCR-CLI            OCCURS 0 TO 1000 TIMES
+                                   DEPENDING ON RPST-QT-OCR-CLI.
+                05 RPST-NR-ORD-NVL-IDCO                 PIC S9(04) COMP.
+                05 RPST-CD-CAS-PDA-MGCT                 PIC S9(09) COMP.
+                05 RPST-NM-EVT-PDA-MGCT                 PIC  X(060).
+                05 RPST-CD-IDCO-PDA-CLI                 PIC S9(09) COMP.
+
+
+Query:
+ 
+" SELECT "
+                  		  + " DISTINCT(A.CD_IDCO_PDA_CLI), "
+                  		  + " A.CD_CAS_PDA_MGCT, "
+                  		  + " A.NR_ORD_NVL_IDCO, "
+                  		  + " CASE "
+                  		  + 	" WHEN "
+                  		  + 	" A.CD_CAS_PDA_MGCT = 1 "
+                  		  + 	" THEN "
+                  		  + 	" (SELECT TRIM(D.NM_EVT_PDA_MGCT) AS NM_EVT_PDA_MGCT "
+                  		  + 		" FROM DB2RTC.EVT_PDA_MGCT D "
+                  		  + 		" WHERE D.CD_EVT_PDA_MGCT = A.CD_IDCO_PDA_CLI "
+                  		  + 		" AND D.CD_TIP_MC_PDA_MGCT = 2 "
+                  		  + 		" AND D.IN_ATVC_EVT_PDA = 'S') "
+                  		  + 	" WHEN "
+                  		  + 	" A.CD_CAS_PDA_MGCT = 2 "
+                  		  + 	" THEN "
+                  		  + 	" (SELECT TRIM(E.NM_FTR_PDA_MGCT) NM_FTR_PDA_MGCT "
+                  		  + 		" FROM DB2RTC.FTR_PDA_MGCT E "
+                  		  + 		" WHERE E.CD_FTR_PDA_MGCT = A.CD_IDCO_PDA_CLI "
+                  		  + 		" AND E.CD_TIP_MC_PDA_MGCT = 2 "
+                  		  + 		" AND E.IN_ATVC_FTR_PDA = 'S') "
+                  		  + " END AS NM_EVT_PDA_MGCT "
+                  		  + " FROM DB2RTC.NVL_IDCO_PDA_CLI A "
+                  		  + " WHERE A.CD_PSS = :CODIGO_CLIENTE "
+                  		  + " AND A.CD_TIP_MC_PDA_MGCT = 2 "
+                  		  + " ORDER BY A.NR_ORD_NVL_IDCO ASC ",

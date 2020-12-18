@@ -1,0 +1,4138 @@
+TABELA: DB2DPR.TRM
+TS....: S1DPR001
+========================================================================
+:Todos os termos Natureza
+------------------------------------------------------------------------
+ANO                           AA   |S <-- NATUREZA
+BLOB                          BL   |S <-- NATUREZA
+CODIGO                        CD   |S <-- NATUREZA
+DATA                          DT   |S <-- NATUREZA
+DIA                           DD   |S <-- NATUREZA
+DIGITO VERIFICADOR            DV   |S <-- NATUREZA
+GEOMETRIA                     GEM  |S <-- NATUREZA
+HORA                          HH   |S <-- NATUREZA
+HORARIO                       HR   |S <-- NATUREZA
+IMAGEM                        IM   |S <-- NATUREZA
+INDICADOR                     IN   |S <-- NATUREZA
+INDICE                        IC   |S <-- NATUREZA
+LINHA                         LNH  |S <-- NATUREZA
+LISTA                         LS   |S <-- NATUREZA
+MES                           MM   |S <-- NATUREZA
+NOME                          NM   |S <-- NATUREZA
+NUMERO                        NR   |S <-- NATUREZA
+PERCENTUAL                    PC   |S <-- NATUREZA
+POLIGONO                      PLGN |S <-- NATUREZA
+PONTO                         PTO  |S <-- NATUREZA
+QUANTIDADE                    QT   |S <-- NATUREZA
+ROWID                         RI   |S <-- NATUREZA
+SIGLA                         SG   |S <-- NATUREZA
+SIMBOLO                       SB   |S <-- NATUREZA
+SOM                           SM   |S <-- NATUREZA
+TEXTO                         TX   |S <-- NATUREZA
+TIMESTAMP                     TS   |S <-- NATUREZA
+VALOR                         VL   |S <-- NATUREZA
+========================================================================
+:Glossário
+------------------------------------------------------------------------
+A GRANEL                      GRAN |N
+A LIBERAR                     ALIB |N
+A PAGAR                       APGR |N
+A REALIZAR                    ARLZ |N
+A VENCER                           |N
+A VISTA                       AV   |N
+ABAIXO                        ABXO |N
+ABANDONADO                    ABDD |N
+ABASTECER                     ABSR |N
+ABASTECIDO                    ABSD |N
+ABASTECIMENTO                 ABST |N
+ABATE                         ABT  |N
+ABATER                        ABTE |N
+ABATIDO                            |N
+ABATIMENTO                    ABTT |N
+ABEND                         ABN  |N
+ABERTO                        ABTO |N
+ABERTURA                      ABTR |N
+ABONO                         ABON |N
+ABORDAGEM                     ABDG |N
+ABORDAR                       ABDR |N
+ABRANGENCIA                   ABGC |N
+ABRANGENTE                    ABGT |N
+ABRANGER                      ABGR |N
+ABRANGIDO                     ABGD |N
+ABREVIADO                     ABVD |N
+ABREVIAR                      ABV  |N
+ABREVIATURA                   ABVR |N
+ABRIL                         ABRL |N
+ABRIR                         ABRR |N
+ABSCISSA                      ABSC |N
+ABSORCAO                      ABR  |N
+ABSORVEDOR                    ABRV |N
+ABSORVIDO                     ABRD |N
+ABSTRACAO                     ABS  |N
+ACADEMICO                     ACDM |N
+ACAO                          ACAO |N
+ACAO JUDICIAL                 ACJD |N
+ACAO ORDINARIA                ACOR |N
+ACAO PREFERENCIAL             ACPR |N
+ACATADO                            |N
+ACATAR                             |N
+ACCRUAL                       ACCR |N
+ACEITACAO                     ACTC |N
+ACEITAR                       ACTR |N
+ACEITE                        ACTE |N
+ACEITO                        ACT  |N
+ACERTO                             |N
+ACESSADO                      ACSD |N
+ACESSAR                       ACS  |N
+ACESSO                        ACSS |N
+ACESSORIO                     ACSR |N
+ACIDENTE                      ACD  |N
+ACIMA                         ACI  |N
+ACIONADO                      ACND |N
+ACIONAMENTO                   ACMT |N
+ACIONAR                       ACAR |N
+ACIONARIO                     ACNR |N
+ACIONISTA                     ACNT |N
+ACKNOWLEDGEMENT               ACKL |N
+ACOLHEDOR                     ACLD |N
+ACOLHER                       ACLR |N
+ACOLHIDO                      ACL  |N
+ACOLHIMENTO                   ACLT |N
+ACOMODAR                           |N
+ACOMPANHAMENTO                ACPT |N
+ACOMPANHANTE                  ACPN |N
+ACOMPANHAR                    ACP  |N
+ACONDICIONADO                 ACDD |N
+ACONDICIONAMENTO              ACDC |N
+ACONDICIONAR                  ACDR |N
+ACONTECIDO                         |N
+ACONTECIMENTO                      |N
+ACORDO                        ACRD |N
+ACORDO DE BASILEIA            ACBS |N
+ACRESCIMO                          |N
+ACUMULACAO                    ACMC |N
+ACUMULADO                     ACM  |N
+ACUMULADOR                    ACR  |N
+ADABAS                        ADA  |N
+ADAPTACAO                     ADT  |N
+ADAPTADO                      ADTO |N
+ADAPTAR                       ADTR |N
+ADERIR                        ADRR |N
+ADESAO                        ADSO |N
+ADIADO                             |N
+ADIAMENTO                          |N
+ADIANTAMENTO                  ADTT |N
+ADIAR                              |N
+ADICAO                        ADI  |N
+ADICIONADO                    ADCD |N
+ADICIONAL                     ADC  |N
+ADIMPLENCIA                   ADPC |N
+ADIMPLENTE                    ADPT |N
+ADITAR                        ADIT |N
+ADITIVO                            |N
+ADITIVO CONTRATUAL            ADCT |N
+ADMINISTRACAO                 ADMC |N
+ADMINISTRADOR                 ADM  |N
+ADMINISTRAR                   ADMR |N
+ADMINISTRATIVO                ADMO |N
+ADMISSAO                      ADS  |N
+ADMITIDO                      ADTD |N
+ADOLESCENTE                   ADLT |N
+ADOTAR                             |N
+ADQUIRENTE                    ADTE |N
+ADQUIRIDO                     ADQ  |N
+ADQUIRIR                      ADQR |N
+ADUANEIRO                     AUNO |N
+ADULTO                        ADU  |N
+ADVOGADO                      ADV  |N
+AEREO                         AER  |N
+AERONAVE                      ARNV |N
+AEROPORTO                     ARPT |N
+AEROPORTUARIO                 ARPR |N
+AFASTADO                           |N
+AFASTAMENTO                   AFT  |N
+AFASTAR                       AFTR |N
+AFETADO                            |N
+AFETAR                             |N
+AFILIADO                           |N
+AFINIDADE                     AFIN |N
+AFIRMAR                            |N
+AFIRMATIVO                    AFRM |N
+AGENCIA                       AG   |N
+AGENCIA-TRONCO                AGTC |N
+AGENDA                        AGDA |N
+AGENDADO                      AGDD |N
+AGENDAMENTO                   AGDT |N
+AGENDAR                       AGD  |N
+AGENTE                        AGT  |N
+AGIO                          AGIO |N
+AGOSTO                        AGOS |N
+AGRAVO                        AGRA |N
+AGREGADO                      AGRD |N
+AGREGAR                       AGRR |N
+AGREGAVEL                     AGRV |N
+AGRICOLA                      AGRL |N
+AGRICULTURA                   AGR  seN
+AGRONEGOCIO                   ANEG |N
+AGRONOMIA                     AGN  |N
+AGRONOMO                      AGNM |N
+AGROPECUARIO                  AGRP |N
+AGRUPADO                      AGPD |N
+AGRUPADOR                     AGPR |N
+AGRUPAMENTO                   AGPT |N
+AGRUPAR                       AGPA |N
+AGUA                          AGUA |N
+AJUDA                         AJD  |N
+AJUIZADO                      AJZD |N
+AJUIZAMENTO                   AJZT |N
+AJUIZAR                       AJZ  |N
+AJUSTADO                      AJSD |N
+AJUSTE                        AJST |N
+ALARME                        ALR  |N
+ALAVANCAGEM                   ALVG |N
+ALCADA                        ALC  |N
+ALCANCADO                          |N
+ALEATORIO                     ALET |N
+ALEGACAO                      ALGC |N
+ALEM                               |N
+ALERTA                             |N
+ALFANDEGARIO                       |N
+ALFANUMERICO                  ANRC |N
+ALGORITMO                     AGRM |N
+ALIENACAO                     ALN  |N
+ALIENADO                      ALND |N
+ALIENAR                       ALNR |N
+ALIMENTACAO                   ALM  |N
+ALIMENTADO                    AMND |N
+ALIMENTAR                     AMNR |N
+ALIMENTO                      AMN  |N
+ALINEA                        ALIN |N
+ALINHADO                      ALD  |N
+ALINHAMENTO                   ALMT |N
+ALINHAR                       ALHR |N
+ALIQUOTA                           |N
+ALIVIO                             |N
+ALIVIO DE NUMERARIO           ALNM |N
+ALMOXARIFADO                  AMX  |N
+ALOCACAO                      ALCC |N
+ALOCADO                       ALCD |N
+ALOCADOR                      ALCO |N
+ALOCAR                        ALCR |N
+ALONGADO                      ALGD |N
+ALTA CAPCIDADE                ATCP |N
+ALTERACAO                     ALT  |N
+ALTERADO                      ALTD |N
+ALTERADOR                     ALTO |N
+ALTERAR                       ALTR |N
+ALTERNATIVA                   ATNT |N
+ALTERNATIVO                   ATNV |N
+ALTITUDE                      ALTT |N
+ALTO                               |N
+ALTURA                        H    |N
+ALUGUEL                            |N
+ALUNO                         ALU  |N
+ALVARA                        ALVR |N
+ALVO                          ALVO |N
+AMBIENTE                      AMB  |N
+AMEACA                        AMC  |N
+AMERICANEXPRESS               AMEX |N
+AMERICANO                     AMER |N
+AMORTIZACAO                   AMTZ |N
+AMORTIZADO                    AMZD |N
+AMORTIZAR                     AMTR |N
+AMOSTRA                       AMS  |N
+AMOSTRAGEM                    AMSG |N
+AMPARADO                      AMPD |N
+AMPARAVEL                     AMPV |N
+AMPARO                        AMP  |N
+AMPLO                              |N
+ANALISADO                     ANLD |N
+ANALISAR                      ANLR |N
+ANALISE                       ANL  |N
+ANALISE DE SENSIBILIDADE      ANLS |N
+ANALISTA                      ANLT |N
+ANALITICO                     ANA  |N
+ANALOGICO                     ANLG |N
+ANALOGO                            |N
+ANBI                               |N
+ANBID                              |N
+ANBIMA                        ANBI |N
+ANDAMENTO                     ADMT |N
+ANDAR                         ADAR |N
+ANEXACAO                      ANXC |N
+ANEXADO                       ANXD |N
+ANEXAR                        ANXR |N
+ANEXO                         ANX  |N
+ANIMAL                        ANML |N
+ANISTIA                       ANST |N
+ANIVERSARIANTE                ANVS |N
+ANIVERSARIO                   ANV  |N
+ANO                           AA   |S <-- NATUREZA
+ANORMAL                       ANRL |N
+ANORMALIDADE                  ANDD |N
+ANOTACAO                      ANOT |N
+ANSI                          ANSI |N
+ANTECEDENTE                        |N
+ANTECIPACAO                   ATCC |N
+ANTECIPACAO DE CREDITO LOJISTAACLJ |N
+ANTECIPADO                    ATCD |N
+ANTECIPAR                     ATPR |N
+ANTERIOR                      ANT  |N
+ANTES                              |N
+ANTIETICO                     ANTC |N
+ANUAL                         AAL  |N
+ANUENIO                            |N
+ANUIDADE                      ANUD |N
+ANULACAO                           |N
+ANUNCIO                       ANC  |N
+APARENCIA                          |N
+APELACAO                      APLO |N
+APELADO                       APLA |N
+APELIDO                       APDO |N
+APERFEICOAMENTO               APF  |N
+APLICABILIDADE                APLB |N
+APLICACAO                     APL  |N
+APLICADO                      APLD |N
+APLICADOR                     APLR |N
+APLICATIVO                         |N
+APLICAVEL                     APLL |N
+APLIC120                      A120 |N
+APLIC30                       A30  |N
+APOIAR                        APOR |N
+APOIO                         APO  |N
+APOLICE                       APLC |N
+APOLICE AVULSA                APAV |N
+APOS                               |N
+APOSENTADO                    APND |N
+APOSENTADORIA                 APN  |N
+APOSENTAR                     APNR |N
+APRECIADO                          |N
+APRECIAR                           |N
+APRENDIZ                      APDZ |N
+APRESENTACAO                  APSC |N
+APROPRIACAO                   APPC |N
+APROPRIADO                    APPD |N
+APROPRIAR                     APPR |N
+APROVACAO                     APVC |N
+APROVADO                      APVD |N
+APROVADOR                     APVR |N
+APROVAR                       APV  |N
+APROVEITAMENTO                APVT |N
+APROXIMADO                    APXD |N
+APTO                          APTO |N
+APURACAO                      APRC |N
+APURACAO DE RESULTADO INTERNO APRI |N
+APURADO                       APRD |N
+APURADOR                      APRR |N
+APURAR                        APUR |N
+AQUISICAO                     AQS  |N
+AQUISICAO DO GOVERNO FEDERAL  AGF  |N
+ARBITRAGEM                    ABTG |N
+AREA                          AREA |N
+AREIA                         AREI |N
+ARGUMENTO                     ARG  |N
+ARMA                          ARM  |N
+ARMAZEM                       AMZ  |N
+ARMAZENADO                    AMZO |N
+ARMAZENAMENTO                 AMZT |N
+ARQUITETURA                   AQTT |N
+ARQUITETURA DE REDE           AQTR |N
+ARQUIVADO                     ARVD |N
+ARQUIVAMENTO                  ARQV |N
+ARQUIVAR                      ARQR |N
+ARQUIVO                       ARQ  |N
+ARRANJO PRODUTIVO             ARP  |N
+ARRASTADO                     ARSD |N
+ARRASTAR                      ARSR |N
+ARRASTO                       ARS  |N
+ARREAMENTO                    ARNT |N
+ARRECADACAO                   ARC  |N
+ARRECADADO                    ARCD |N
+ARRECADADOR                   ARCO |N
+ARRECADAR                     ARCR |N
+ARREDONDAMENTO                ARDT |N
+ARREMATADO                    ARTD |N
+ARREMATANTE                        |N
+ARREMATE                      ART  |N
+ARRENDADOR                    ARRO |N
+ARRENDAMENTO                  ARRD |N
+ARRENDATARIO                  ARRT |N
+ARROMBAMENTO                  ARB  |N
+ARRUAMENTO                    ARMT |N
+ARTICULACAO                   ATCO |N
+ARTICULAR                     ATCR |N
+ARTIGO                        ARTG |N
+ASCENDENCIA                   ACDA |N
+ASCII                         ASCI |N
+ASPECTO                       APCT |N
+ASSALTANTE                    ASLT |N
+ASSALTO                       ASL  |N
+ASSEGURADO                    ASGD |N
+ASSEGURAR                     ASG  |N
+ASSEMBLEIA                    ASSB |N
+ASSEMBLER                     ASBR |N
+ASSESSORIA                    ASSR |N
+ASSIDUIDADE                   ASD  |N
+ASSIDUO                       ASDO |N
+ASSINAR                       ASNR |N
+ASSINATURA                    ASS  |N
+ASSISTENCIA                   AST  |N
+ASSISTENCIA TECNICA           ATCN |N
+ASSISTENCIA VINTE QUATRO HORA AVQH |N
+ASSISTENCIAL                  ASTL |N
+ASSOC NACIONAL BANCOS INVEST       |N
+ASSOCIACAO                    ASC  |N
+ASSOCIACAO ADVOGADOS DO BB    ASAB |N
+ASSOCIACAO BOLSAS MERCADORIAS ABM  |N
+ASSOCIADO                     ASCD |N
+ASSOCIATIVISTA                ASCV |N
+ASSUNTO                       ASNT |N
+ATA                           ATA  |N
+ATACADO                       ATAC |N
+ATE                           ATE  |N
+ATENDENTE                     ATD  |N
+ATENDER                       ATDR |N
+ATENDIDO                      ATDD |N
+ATENDIMENTO                   ATDT |N
+ATERRO                        ATRR |N
+ATESTADO                           |N
+ATINGIDO                      ATGD |N
+ATINGIMENTO                   ATGT |N
+ATINGIR                       ATGR |N
+ATINGIVEL                     ATGL |N
+ATITUDE                       ATTD |N
+ATIVA                         ATV  |N
+ATIVACAO                      ATVC |N
+ATIVIDADE                     ATVD |N
+ATIVO                         ATI  |N
+ATIVO-OBJETO                  ATBJ |N
+ATO                           ATO  |N
+ATOR                          ATOR |N
+ATRACADOURO                   ATRD |N
+ATRASO                        ATR  |N
+ATRATIVIDADE                       |N
+ATRIBUICAO                    ATBC |N
+ATRIBUIDO                     ATBD |N
+ATRIBUIDOR                    ATBO |N
+ATRIBUIR                      ATBR |N
+ATRIBUTO                      ATB  |N
+ATUACAO                            |N
+ATUAL                         ATU  |N
+ATUALIZACAO                   ATL  |N
+ATUALIZADO                    ATZD |N
+ATUALIZAR                     ATLR |N
+AUDIENCIA                     ADN  |N
+AUDIOVISUAL                   ADVS |N
+AUDITADO                      AUDO |N
+AUDITAR                       AITR |N
+AUDITOR                       AUDR |N
+AUDITORIA                     AUD  |N
+AUMENTO                       AUM  |N
+AUSENCIA                      AUSC |N
+AUTENTICACAO                  AUT  |N
+AUTENTICADOR                  AUTN |N
+AUTO                          AUTO |N
+AUTO-ATENDIMENTO                   |N
+AUTOATENDIMENTO               AAT  |N
+AUTODESENVOLVIMENTO           ADES |N
+AUTOMACAO                          |N
+AUTOMATICO                    AUTC |N
+AUTOMATIZACAO                 ATT  |N
+AUTOMATIZAR                   ATTR |N
+AUTOMOTOR                     AUTM |N
+AUTONOMIA CONTABIL            ACTB |N
+AUTONOMO                      ATNM |N
+AUTOR                         AUR  |N
+AUTORIA                       AURI |N
+AUTORIDADE                    ADD  |N
+AUTORIZACAO                   AUTZ |N
+AUTORIZADO                    AUTD |N
+AUTORIZADOR                        |N
+AUTORIZAR                     AUTR |N
+AUTORREGULADO                 AURD |N
+AUTUACAO                      AUTU |N
+AUXILIAR                      AUX  |N
+AUXILIO                            |N
+AVAL                          AVL  |N
+AVALIACAO                     AVLC |N
+AVALIADO                      AVLD |N
+AVALIADOR                     AVLR |N
+AVALIAR                       AVLA |N
+AVALIAVEL                     AVLV |N
+AVALISTA                      AVLT |N
+AVARIA                        AVR  |N
+AVERBACAO                     AVB  |N
+AVERBAR                       AVBR |N
+AVICULTURA                    AVIC |N
+AVISADOR                           |N
+AVISAR                             |N
+AVISO                         AVS  |N
+AVOCACAO                      AVCO |N
+AVOCADO                       AVCD |N
+AVOCAR                        AVCR |N
+BACEN                              |N
+BACKUP                        BKP  |N
+BAIRRO                        BAI  |N
+BAIXA                         BXA  |N
+BAIXA CAPACIDADE              BXCP |N
+BAIXADO                       BXAD |N
+BAIXO                         BXO  |N
+BALANCA                       BLN  |N
+BALANCEAMENTO                 BLTO |N
+BALANCETE                     BAL  |N
+BALANCO                       BLC  |N
+BALCAO                        BLCO |N
+BANCARIO                      BCRO |N
+BANCO                         BCO  |N
+BANCO CENTRAL DO BRASIL       BC   |N
+BANCO DE DADOS                DB   |N
+BANCO DO BRASIL               BB   |N
+BANCO INTERAMERICANO DE DESENVBID  |N
+BANCO POPULAR                 BPB  |N
+BANCO POPULAR DO BRASIL            |N
+BANCO VINTE E QUATRO HORAS    BVQH |N
+BANDA MAGNETICA DO CHEQUE     BMC  |N
+BANK IDENTIFIER CODE          BIC  |N
+BANNER                        BNNR |N
+BANQUEIRO                     BANQ |N
+BARRA                         BRRA |N
+BASE                          BASE |N
+BASIC IDENTIFIER NUMBER       BIN  |N
+BASICO                        BASC |N
+BATCH                         BCH  |N
+BAU DE CAIXA                  BACX |N
+BB                                 |N
+BB CODE                       BBCD |N
+BBBI                          BBBI |N
+BBDTVM                        DTVM |N
+BBNET                         BBNT |N
+BBTUR                         BBTR |N
+BEBIDA                        BBD  |N
+BEM                           BEM  |N
+BEM FUNGIVEL                  BEMF |N
+BEM NAO DE USO                BNUS |N
+BENCHMARK                     BCM  |N
+BENCHMARKING                  BCMK |N
+BENEFICIADO                   BNFD |N
+BENEFICIAMENTO                BNFT |N
+BENEFICIAR                    BNFR |N
+BENEFICIARIO                  BNFC |N
+BENEFICIO                     BNF  |N
+BENFEITORIA                   BFT  |N
+BIBLIOTECA                    BBL  |N
+BID                                |N
+BIENIO                        BINO |N
+BILATERAL                     BLTL |N
+BILHETE                       BLH  |N
+BIMESTRE                      BIM  |N
+BIN                                |N
+BINARIO                       BINR |N
+BIND                          BIND |N
+BIOMETRIA                     BMTA |N
+BIOMETRICO                    BMTC |N
+BIP                           BIP  |N
+BIT                           BIT  |N
+BITOLA                        BTLA |N
+BLINDAGEM                     BLD  |N
+BLOB                          BL   |S <-- NATUREZA
+BLOCO                         BLOC |N
+BLOQUEADO                     BLQD |N
+BLOQUEAR                      BLQR |N
+BLOQUEIO                      BLQ  |N
+BLOQUETO                      BQT  |N
+BMF                                |N
+BNDES                         BNDE |N
+BOLETA                        BLT  |N
+BOLETIM                       BLTM |N
+BOLETO                             |N
+BOLETO ELETRONICO DE CAMBIO   BEC  |N
+BOLSA                         BLS  |N
+BOLSA DE ESTUDO               BLSE |N
+BOLSA DE MERCADORIAS E FUTUROSBMF  |N
+BONIFICACAO                   BONC |N
+BONUS                         BON  |N
+BOOK                          BOOK |N
+BORDERO                       BRDO |N
+BOVINOCULTURA                 BOVC |N
+BPS                           BPS  |N
+BRANCH CODE                   BRCD |N
+BRASIL                        BR   |N
+BRASILEIRO                    BRL  |N
+BRASILIA                      BSB  |N
+BRINDE                        BRN  |N
+BROWSER                       BRWS |N
+BRUTO                         BRTO |N
+BUCKET                        BCKT |N
+BUEIRO                        BIR  |N
+BUFFER POOL                   BFPO |N
+BUG                           BUG  |N
+BULLETIN BOARD SYSTEM         BBS  |N
+BYTE                          BYTE |N
+C                             C    |N
+CACHE                         CACH |N
+CAD INSC ENTIDADES FINANCEIRASCIEF |N
+CADASTRADO                    CADD |N
+CADASTRAL                     CADL |N
+CADASTRAMENTO                 CADM |N
+CADASTRANTE                   CADT |N
+CADASTRAR                     CADR |N
+CADASTRO                      CAD  |N
+CADASTRO DE CHEQUES SEM FUNDOSCCF  |N
+CADASTRO DE PESSOA FISICA          |N
+CADASTRO EMITENTES CHQ S/FUNDOECF  |N
+CADASTRO NAC PESSOAS JURIDICASCNPJ |N
+CADEIA                             |N
+CADEIA DE VALOR               CDVL |N
+CADERNO                       CDRN |N
+CAFE                          CAFE |N
+CAIXA                         CX   |N
+CAIXA ALTA                    CXAT |N
+CAIXA BAIXA                   CXBX |N
+CAIXA ECONOMICA FEDERAL       CEF  |N
+CAIXA POSTAL                  CXPT |N
+CALCULADO                     CLCD |N
+CALCULO                       CLC  |N
+CALENDARIO                    CLDR |N
+CAMA                          CAMA |N
+CAMARA                        CMRA |N
+CAMARA DE COMPENSACAO         CCMP |N
+CAMARA INTERBANCARIA DE PAGTOSCIP  |N
+CAMBIAL                       CMBL |N
+CAMBIO                        CMB  |N
+CAMINHAO                      CMNH |N
+CAMINHO                            |N
+CAMPANHA                      CMH  |N
+CAMPO                         CMP  |N
+CANAL                         CNL  |N
+CANCELADO                     CNCD |N
+CANCELAMENTO                  CNCT |N
+CANCELAR                      CNCR |N
+CANDIDATO                     CDDT |N
+CANDIDATURA                   CDDR |N
+CANTEIRO                      CNRO |N
+CAPACIDADE                    CPDD |N
+CAPITAL                       CPTL |N
+CAPITAL DE GIRO               CPGR |N
+CAPITALIZACAO                 CPTZ |N
+CAPITALIZADO                  CPTI |N
+CAPITALIZAR                   CPZR |N
+CAPITULO                      CPLO |N
+CAPOEIRA                      CPRA |N
+CAPRINOCULTURA                CPRC |N
+CAPTACAO                      CAPC |N
+CAPTADOR                      CAPR |N
+CAPTAR                        CAP  |N
+CAPTURA                       CPTR |N
+CAPTURADO                     CPTD |N
+CARACTERE                     CCT  |N
+CARACTERISTICA                CRCT |N
+CARATER                       CART |N
+CARCINICULTURA                CARC |N
+CARDINALIDADE                      |N
+CARENCIA                      CARE |N
+CARGA                         CRGA |N
+CARGA DINAMICA                CGDN |N
+CARGA HORARIA                 CGHR |N
+CARGO                         CRG  |N
+CARNE                         CARN |N
+CARREGADO                     CRGO |N
+CARREIRA                      CARR |N
+CARROCERIA                    COC  |N
+CARTA                         CRTA |N
+CARTA DE CREDITO              CCRD |N
+CARTAO                        CRT  |N
+CARTAZ                        CRZ  |N
+CARTEIRA                      CTRA |N
+CARTEIRA DE IDENTIDADE             |N
+CARTEIRA DE TRABALHO          CTPS |N
+CARTEIRA LIVRO MERC CAPITAIS  CLMC |N
+CARTEIRA MERCADO DE CAPITAIS  CMCP |N
+CARTORIO                      CRTO |N
+CARTORIO DE REGISTRO DE IMOVELCRIM |N
+CARTUCHO                      CTCH |N
+CASA DECIMAL                  CDEC |N
+CASCO                         CSCO |N
+CASO DE TESTE                 CTST |N
+CASO DE USO                   CUSO |N
+CASUAL                             |N
+CATALOGACAO                   CATC |N
+CATALOGO                      CAT  |N
+CATEGORIA                     CTGR |N
+CAUCAO                        CAUC |N
+CAUSA                         CAS  |N
+CAUSADOR                      CASD |N
+CAUTELA                            |N
+CBLC                               |N
+CCU                           CCU  |N
+CDC                                |N
+CDI                                |N
+CEDENTE                       CDT  |N
+CEDIDO                        CDD  |N
+CEDULA                        CDL  |N
+CEDULA DE CREDITO             CDLC |N
+CEDULA DE IDENTIDADE               |N
+CELEBRACAO                    CLB  |N
+CELEBRADO                     CLBD |N
+CELEBRADOR                    CLBR |N
+CELEBRAR                      CLRR |N
+CELULA                        CEL  |N
+CELULAR                       CELR |N
+CENARIO                       CNR  |N
+CENTENA                       CTNA |N
+CENTESIMO DE SEGUNDO          CTSG |N
+CENTRAL                       CNTR |N
+CENTRAL DE ATENDIMENTO        CEAT |N
+CENTRALIZADO                  CTZD |N
+CENTRALIZADOR                 CTZR |N
+CENTRO                        CEN  |N
+CENTRO PROCESSADOR            CTP  |N
+CENTROIDE                     CEND |N
+CEP                           CEP  |N
+CERTIDAO                      CTDO |N
+CERTIFICACAO                  CTFC |N
+CERTIFICADO                   CTFD |N
+CERTIFICADO DEP INTERBANCARIO CDI  |N
+CERTIFICADO DEPOSITO BANCARIO CDB  |N
+CERTIFICADOR                  CTFR |N
+CERTIFICAR                    CRFR |N
+CERTO                         CER  |N
+CESEC                         CSEC |N
+CESSAO                        CSS  |N
+CESSIONARIO                   CSNR |N
+CESTA                         CSTA |N
+CETIP                         CTIP |N
+CGC                           CGC  |N
+CHAMADO                       CHMD |N
+CHAMADOR                      CHMR |N
+CHANCELA                           |N
+CHASSI                        CHAS |N
+CHAVE                         CHV  |N
+CHAVE MESTRA                  CHVM |N
+CHEGADA                       CHGD |N
+CHEIO                         CHEI |N
+CHEQUE                        CHQ  |N
+CHEQUE DE VIAGEM              CHQV |N
+CHEQUE OURO                   CHOU |N
+CHIP                          CHIP |N
+CIA BRL LIQUIDACAO CUSTODIA   CBLC |N
+CIC                           CIC  |N
+CICLICO                            |N
+CICLO                         CICL |N
+CICLOVIA                      CCVA |N
+CICS                               |N
+CIDADANIA                     CIDN |N
+CIDADE                        CID  |N
+CIEF                               |N
+CILINDRADA                    CLND |N
+CINCO                         CNC  |N
+CIP                                |N
+CIRCUITO                      CCTO |N
+CIRCULACAO                    CRCC |N
+CIRCULANTE                    CLNT |N
+CIRCULAR                      CRCL |N
+CIRCUNSCRICAO                 CCC  |N
+CISAO                         CIS  |N
+CIVEL                         CVEL |N
+CIVIL                         CVL  |N
+CLAREZA                       CLRZ |N
+CLASSE                        CLS  |N
+CLASSIFICACAO                 CLSC |N
+CLASSIFICADOR                 CLSD |N
+CLASSIFICAR                   CLSR |N
+CLAUSULA                      CLSL |N
+CLEARING                      CLRG |N
+CLIENTE                       CLI  |N
+CLT                                |N
+CLUBE                         CLBE |N
+CNIS                          CNIS |N
+CNPJ                               |N
+CO-PARTICIPANTE               CPCT |N
+CO-RESPONSAVEL                CRSP |N
+COBERTURA                     CBT  |N
+COBOL                         CBL  |N
+COBRADO                       CBRO |N
+COBRADOR                      CBRD |N
+COBRANCA                      CBR  |N
+COBRAR                        CBRR |N
+CODESP                        CDSP |N
+CODEX                         CDEX |N
+CODIFICACAO                   CDF  |N
+CODIFICADOR                   CDFD |N
+CODIGO                        CD   |S <-- NATUREZA
+CODIGO DE BARRAS              CDBR |N
+COEFICIENTE                   CFCT |N
+COFINS                        CFNS |N
+COFRE                         COF  |N
+COLATERAL                     CLAL |N
+COLETA                        CLA  |N
+COLETAR                       CLAR |N
+COLETIVO                      CLTO |N
+COLHEITA                      COLH |N
+COLHEITADEIRA                 CLHT |N
+COLHER                        CLHR |N
+COLHIDO                       CLHD |N
+COLIGACAO                     CLG  |N
+COLIGADO                      CLGD |N
+COLOCACAO                     CLOC |N
+COLOQUIO                           |N
+COLUNA                        COL  |N
+COM                           COM  |N
+COMANDAR                      CMDR |N
+COMANDO                       CMDO |N
+COMARCA                       CMR  |N
+COMBINACAO                    CBN  |N
+COMBUSTIVEL                   COMB |N
+COMECO                             |N
+COMEMORATIVO                  CMTV |N
+COMENTARIO                    CMTR |N
+COMERCIAL                     CML  |N
+COMERCIALIZACAO               CMZC |N
+COMERCIALIZADO                CMLD |N
+COMERCIALIZAR                 CMZ  |N
+COMERCIO                      CMC  |N
+COMISSAO                      CMSS |N
+COMISSAO VALORES MOBILIARIOS  CVM  |N
+COMISSIONADO                  CMSO |N
+COMISSIONAMENTO               CMST |N
+COMISSIONAR                   CMSR |N
+COMITE                        CMTE |N
+COMITENTE                     CMTN |N
+COMMIT                        CMMT |N
+COMPACTACAO                   CPC  |N
+COMPACTADO                    CPCD |N
+COMPACTADOR                   CPCR |N
+COMPANHIA                     CIA  |N
+COMPANY                            |N
+COMPARACAO                         |N
+COMPARADO                          |N
+COMPARAR                           |N
+COMPARATIVO                   CPRV |N
+COMPARTILHADO                 CPTH |N
+COMPARTILHAMENTO              CPTO |N
+COMPATIBILIZAR                     |N
+COMPATIVEL                    CMPV |N
+COMPE                              |N
+COMPENSACAO                   CPSO |N
+COMPENSADO                    CPSD |N
+COMPENSAR                     CPSR |N
+COMPENSATORIO                 CPST |N
+COMPENSAVEL                   CPSL |N
+COMPETENCIA                   CPTC |N
+COMPETICAO                         |N
+COMPETIDOR                         |N
+COMPETIR                           |N
+COMPILACAO                    CPL  |N
+COMPILADO                     CPLA |N
+COMPILADOR                    CPLD |N
+COMPILAR                      CPLR |N
+COMPLEMENTAR                  CMPR |N
+COMPLEMENTO                   CMPT |N
+COMPLETO                      CMT  |N
+COMPLEXIDADE                  CPLX |N
+COMPLEXO                      CPXO |N
+COMPONENTE                    CPNT |N
+COMPORTAMENTAL                CMRL |N
+COMPORTAMENTO                 CMRT |N
+COMPOSICAO                    CMPS |N
+COMPOSTO                      CPT  |N
+COMPRA                        CPR  |N
+COMPRADO                      CPRO |N
+COMPRADOR                     CPRD |N
+COMPRAR                       CMRR |N
+COMPREENDER                        |N
+COMPRESSAO                    CPRS |N
+COMPRIDO                           |N
+COMPRIMENTO                   CPMT |N
+COMPROMETIDO                  CMTD |N
+COMPROMETIMENTO               CMTT |N
+COMPROMISSADO                 CMPD |N
+COMPROMISSO                   CMPO |N
+COMPROVACAO                   CPV  |N
+COMPROVADOR                        |N
+COMPROVANTE                   CPVT |N
+COMPULSORIO                        |N
+COMPUTACAO                    CPUT |N
+COMPUTACIONAL                 CPUL |N
+COMPUTADOR                    CPUR |N
+COMPUTAVEL                    CPVL |N
+COMUM                         CMUM |N
+COMUNICACAO                   CMCO |N
+COMUNICACAO COM O USUARIO     CMUS |N
+COMUNICADO                    CMND |N
+COMUNICADO ARREMATE EM LEILAO CAL  |N
+COMUNICAR                     CMCR |N
+COMUNIDADE                    CMDD |N
+CONAB                         CONB |N
+CONCATENACAO                  CCA  |N
+CONCATENAR                    CCAR |N
+CONCEDER                           |N
+CONCEDIDO                          |N
+CONCEITO                      CONC |N
+CONCENTRACAO                  CCN  |N
+CONCENTRADO                   CCND |N
+CONCESSAO                     CON  |N
+CONCESSIONARIO                CONR |N
+CONCILIACAO                   CCL  |N
+CONCILIADO                    CCLD |N
+CONCILIAR                     CCLR |N
+CONCLUIDO                          |N
+CONCLUSAO                          |N
+CONCOMITANTE                       |N
+CONCORDANCIA                  CCDC |N
+CONCORDATA                    CCDT |N
+CONCORDATARIO                 CCDR |N
+CONCORRENCIA                  CCR  |N
+CONCORRENTE                   CCRT |N
+CONCORRER                     CCRR |N
+CONCURSO                      CCS  |N
+CONDENACAO                    CNN  |N
+CONDENAR                      CNNR |N
+CONDICAO                      CND  |N
+CONDICIONAL                   CNDL |N
+CONDOMINIO                    CNDM |N
+CONDUCAO                      CDU  |N
+CONDUTOR                      CDTR |N
+CONECTAR                      CECR |N
+CONECTOR                      CEC  |N
+CONEF                         CONF |N
+CONEXAO                       CNXO |N
+CONFAZ                        CNFZ |N
+CONFECCAO                     CFCC |N
+CONFEDERACAO NACIONAL BANCOS  CNAB |N
+CONFERENCIA                   CFN  |N
+CONFERIDO                     CNFD |N
+CONFESSO                      CFSO |N
+CONFIDENCIAL                  CFDL |N
+CONFIDENCIALIDADE             CFDD |N
+CONFIGURACAO                  CFG  |N
+CONFIRMACAO                   CNFC |N
+CONFIRMADO                    CNFO |N
+CONFIRMAR                     CNF  |N
+CONFISSAO                     CFS  |N
+CONFLITO                      CFL  |N
+CONFORMIDADE                  CFMD |N
+CONFRONTACAO                  CFR  |N
+CONFRONTADO                   CFTD |N
+CONFRONTAR                    CNFR |N
+CONFRONTO                     CFT  |N
+CONGELADO                     CNGL |N
+CONGELAMENTO                       |N
+CONHECER                      CNHR |N
+CONHECIDO                     CNHD |N
+CONHECIMENTO                  CNH  |N
+CONJUGE                       	 |N
+CONJUNTO                      CJT  |N
+CONJUNTURA ECONOMICA          CECN |N
+CONSECUTIVO                   CSCV |N
+CONSELHO                      CNSL |N
+CONSELHO REG DE ENGENHARIA         |N
+CONSELHO REGIONAL DE MEDICINA      |N
+CONSEQUENCIA                       |N
+CONSERVACAO                   CSV  |N
+CONSIGNACAO                   CGN  |N
+CONSISTENCIA                  CNST |N
+CONSOLIDACAO                  CNSO |N
+CONSOLIDACAO LEIS TRABALHISTASCLT  |N
+CONSOLIDADO                   CNSD |N
+CONSOLIDAR                    CNSR |N
+CONSORCIADO                   CSRD |N
+CONSORCIO                     CSR  |N
+CONSTANTE                     K    |N
+CONSTITUICAO                       |N
+CONSTRUCAO                    CNSC |N1
+CONSULTA                           |N
+CONSULTADO                         |N
+CONSULTAR                     CSTR |N
+CONSULTOR                     CSLR |N
+CONSUMIDO                     CSMD |N
+CONSUMIDOR                    CSMO |N
+CONSUMIR                      CSMR |N
+CONSUMIVEL                    CSMV |N
+CONSUMO                       CSM  |N
+CONTA                         CT   |N
+CONTA CORRENTE                CC   |N
+CONTABIL                      CTB  |N
+CONTABILIDADE                 CTBE |N
+CONTABILIZACAO                CTBC |N
+CONTABILIZADO                 CTBD |N
+CONTABILIZAR                  CTBZ |N
+CONTADOR                      CNT  |N
+CONTAGEM                      CTG  |N
+CONTAINER                     CTNR |N
+CONTATO                       CTT  |N
+CONTENTAMENTO                      |N
+CONTESTACAO                   CTA  |N
+CONTEUDO                      CTU  |N
+CONTEXTO                      CTX  |N
+CONTINGENCIA                  CNG  |N
+CONTINGENCIADO                CNGD |N
+CONTINUACAO                   CTNC |N
+CONTINUAR                     CTN  |N
+CONTINUIDADE                  CTND |N
+CONTINUO                      CTNO |N
+CONTRA                        CRA  |N
+CONTRA ORDEM                  CORD |N
+CONTRACARGO                   CCRG |N
+CONTRACHEQUE                  CCHQ |N
+CONTRAPARCELA                 CPCL |N
+CONTRAPARTE                   CPTE |N
+CONTRAPARTIDA                 CNPT |N
+CONTRAPRESTACAO               CTPT |N
+CONTRAPROPOSTA                CPRP |N
+CONTRARIO                     CRO  |N
+CONTRATACAO                   CTRC |N
+CONTRATADO                    CTRD |N
+CONTRATANTE                   CTRT |N
+CONTRATAR                     CTRR |N
+CONTRATO                      CTR  |N
+CONTRATUAL                    CTRL |N
+CONTRIB PROV MOVIM FINANCEIRA CPMF |N
+CONTRIB SOCIAL S/LUCRO LIQUIDOCSLL |N
+CONTRIBUICAO                  COT  |N
+CONTRIBUINTE                  CTRE |N
+CONTROL VARIABLE              CV   |N
+CONTROLADO                    CTLD |N
+CONTROLADOR                   CTLR |N
+CONTROLAR                     CRLR |N
+CONTROLE                      CTL  |N
+CONVENENTE                    CVNT |N
+CONVENIADO                    CVND |N
+CONVENIENCIA                       |N
+CONVENIENTE                        |N
+CONVENIO                      CVN  |N
+CONVERSACAO                        |N
+CONVERSAO                     CNV  |N
+CONVERSOR                     CNVR |N
+CONVERTIDO                    CNVD |N
+CONVES                        CONV |N
+CONVIDADO                          |N
+CONVIDAR                           |N
+CONVITE                       CNVT |N
+CONVOCACAO                    CVC  |N
+CONVOCADO                     CVCD |N
+CONVOCAR                      CVCR |N
+COOBRIGACAO                   COBG |N
+COOBRIGADO                    COBD |N
+COOPERACAO                    COOP |N
+COOPERADO                     COOD |N
+COOPERATIVA                   COO  |N
+COORDENACAO                   CDN  |N
+COORDENADA                    CDNA |N
+COORDENADOR                   CDND |N
+COORDENAR                     CDNR |N
+COPIA                         COP  |N
+COPIADO                       COPD |N
+COR                           COR  |N
+CORDIAL                       CODL |N
+CORDIALIDADE                  COD  |N
+CORPORATE                          |N
+CORPORATIVO                   CPTV |N
+CORRECAO                           |N
+CORRECAO MONETARIA            CM   |N
+CORREIO                            |N
+CORREIO ELETRONICO                 |N
+CORRELACAO                    CRLC |N
+CORRENTE                      CRR  |N
+CORRENTISTA                   CRRT |N
+CORRESPONDENCIA               CRSD |N
+CORRESPONDENTE                CRS  |N
+CORRETAGEM                    CRE  |N
+CORRETO                            |N
+CORRETOR                      CRET |N
+CORRETORA                     CRRA |N
+CORRIDO                       CRRD |N
+CORRIGIDO                     CRGD |N
+CORTAR                        CRTR |N
+COSIF                         COSF |N
+COTA                          COTA |N
+COTACAO                       CTC  |N
+COTADO                        CTD  |N
+COTISTA                       COTT |N
+CPF                           CPF  |N
+CPI                           CPI  |N
+CPMF                               |N
+CPU                                |N
+CREA                          CREA |N
+CRECHE                        CCHE |N
+CREDENCIAL                    CRDL |N
+CREDENCIAMENTO                CRMT |N
+CREDIT SCORING                CRSC |N
+CREDITADO                     CRDD |N
+CREDITO                       CRD  |N
+CREDITO DIRETO AO CONSUMIDOR  CDC  |N
+CREDITO EM LIQUIDACAO         CL   |N
+CREDITORIO                    CRDT |N
+CREDOR                        CRDR |N
+CREMALHEIRA                   CRMA |N
+CRESCENTE                          |N
+CRESCIMENTO                        |N
+CRIA                          CRIA |N
+CRIACAO                       CRIC |N
+CRIADO                        CRID |N
+CRIADOR                       CRIO |N
+CRIAR                         CRIR |N
+CRIATIVIDADE                  CRI  |N
+CRIPTOGRAFIA                  CRP  |N
+CRIPTOGRAMA                        |N
+CRISE                         CRSE |N
+CRITERIO                      CRIT |N
+CRITICIDADE                   CRTC |N
+CRITICO                       CTO  |N
+CRM                           CRM  |N
+CRONOGRAMA                    CRNG |N
+CRUZADO                       CRZD |N
+CSLL                               |N
+CTPS                               |N
+CULTIVO                       CLTV |N
+CULTURA                       CLTR |N
+CULTURAL                      CLTL |N
+CUMPRIMENTO                   CPM  |N
+CUPOM                         CUPM |N
+CURRICULO                     CUR  |N
+CURSO                         CSO  |N
+CURTO PRAZO                   CTPZ |N
+CURVA                         CRV  |N
+CURVO                         CRVO |N
+CUSTEADO                      CUTD |N
+CUSTEAMENTO                        |N
+CUSTEAR                       CTER |N
+CUSTEIO                       CTE  |N
+CUSTO                         CST  |N
+CUSTO EFETIVO TOTAL           CET  |N
+CUSTODIA                      CTDA |N
+CUSTODIADO                    CSTO |N
+CUSTODIANTE                   CSTD |N
+CUSTOMER INFORM CONTROL SYSTEMCICS |N
+CUSTOMIZACAO                       |N
+CUSTOMIZADO                        |N
+CVM                                |N
+DAC                           DAC  |N
+DACAO                         DCAO |N
+DADO                          DADO |N
+DANIFICADO                    DAND |N
+DANO                          DAN  |N
+DARF                               |N
+DATA                          DT   |S <-- NATUREZA
+DATA CLASS                    DTCL |N
+DATA DEFINITION LANGUAGE      DDL  |N
+DATA MART                     DM   |N
+DATA SET                      DTST |N
+DATA SET NAME                 DSN  |N
+DATA WAREHOUSE                DW   |N
+DATALINK CONNECTION IDENTIFIERDLCI |N
+DBID                          DBID |N
+DB2                           DB2  |N
+DCTF                               |N
+DDD                                |N
+DDI                                |N
+DDL                                |N
+DDNAME                        DDNM |N
+DEBATE                        DBT  |N
+DEBENTURE                     DBTR |N
+DEBITADO                      DEBD |N
+DEBITAR                       DEBT |N
+DEBITO                        DEB  |N
+DECENDIO                      DCND |N
+DECIDIDO                           |N
+DECIDIR                            |N
+DECIMAL                       DCML |N
+DECIMO                        DCMO |N
+DECIMO DE SEGUNDO             DCSG |N
+DECIMO TERCEIRO SALARIO       DTSL |N
+DECISAO                       DCS  |N
+DECISORIO                     DCSO |N
+DECLARACAO                    DCL  |N
+DECLARACAO TRIBUTOS FEDERAIS  DCTF |N
+DECLARADO                     DCLD |N
+DECLARANTE                    DCLT |N
+DECOMPOSICAO                  DCMP |N
+DECORRIDO                          |N
+DEDUCAO                       DDC  |N
+DEDUTIVEL                     DDTV |N
+DEDUZIDO                      DDZD |N
+DEFAULT                       DFLT |N
+DEFEITO                       DFT  |N
+DEFERIDO                           |N
+DEFERIDOR                          |N
+DEFERIMENTO                        |N
+DEFERIR                            |N
+DEFICIENCIA                   DFC  |N
+DEFINICAO                     DFNC |N
+DEFINIDO                      DFND |N
+DEFINIDOR                     DFNR |N
+DEFINIR                       DFN  |N
+DEFINITIVO                    DFNT |N
+DEFLACAO                      DFL  |N
+DEGRAU TARIFARIO              DTRF |N
+DEL-CREDERE                   DELC |N
+DELECAO                            |N
+DELEGACAO                     DLG  |N
+DELEGAR                       DLGR |N
+DELETADO                           |N
+DELIBERACAO                   DLBC |N
+DELIBERADO                    DLBD |N
+DELIBERAR                     DLBR |N
+DELIMITADO                         |N
+DELIMITADOR                        |N
+DELIMITAR                          |N
+DEMANDA                       DMD  |N
+DEMANDADO                     DMDD |N
+DEMANDADOR                         |N
+DEMANDANTE                    DMDE |N
+DEMARCADO                          |N
+DEMARCAR                           |N
+DEMISSAO                      DEM  |N
+DEMITIR                       DEMR |N
+DEMOGRAFICO                   DMGC |N
+DEMONSTRATIVO                 DMTV |N
+DEMONSTRATIVO DE LIMITES OPR  DLO  |N
+DENOMINADOR                   DNMR |N
+DENTRO                        DNTR |N
+DENUNCIA                      DNC  |N
+DENUNCIAR                     DNCR |N
+DEPENDENCIA                   DEPE |N
+DEPENDENTE                    DPTE |N
+DEPOIS                             |N
+DEPOSITADO                    DEPD |N
+DEPOSITANTE                   DEPS |N
+DEPOSITAR                     DPST |N
+DEPOSITARIO                   DEPR |N
+DEPOSITO                      DEP  |N
+DEPOSITO A PRAZO              DEPZ |N
+DEPOSITO A VISTA              DEPV |N
+DEPOSITO COMPULSORIO          DEPC |N
+DEPRECIACAO                        |N
+DEPURACAO                     DPR  |N
+DERIVACAO                     DRV  |N
+DERIVADO                      DRVD |N
+DERIVATIVO                    DVTV |N
+DESABILITACAO                 DHBL |N
+DESACORDO                          |N
+DESAFIO                       DSF  |N
+DESAGIO                       DGIO |N
+DESAPLICACAO                  DAPL |N
+DESATIVACAO                   DTVC |N
+DESATIVADO                    DSTV |N
+DESATIVAR                     DSVR |N
+DESBLOQUEAR                   DBQR |N
+DESBLOQUEIO                   DBLQ |N
+DESCANSO                      DESC |N
+DESCANSO SEMANAL REMUNERADO        |N
+DESCARBONAR                   DCB  |N
+DESCARTADO                         |N
+DESCARTAR                          |N
+DESCARTE                           |N
+DESCLASSIFICACAO              DSCL |N
+DESCLASSIFICADO               DSCF |N
+DESCLASSIFICAVEL              DSCV |N
+DESCOMPACTACAO                DCPC |N
+DESCONTADO                    DSCD |N
+DESCONTO                      DSC  |N
+DESCRICAO                     DCR  |N
+DESCRITOR                     DCRR |N
+DESCUMPRIMENTO                DSCP |N
+DESDOBRAMENTO                 DDBT |N
+DESDOBRAMENTO RUBRICA CONTABILDTRC |N
+DESEJADO                           |N
+DESEJAR                       DSJR |N
+DESEMBARQUE                   DBQE |N
+DESEMBOLSADO                  DBSD |N
+DESEMBOLSADOR                 DBSR |N
+DESEMBOLSAR                   DBSA |N
+DESEMBOLSAVEL                 DBSL |N
+DESEMBOLSO                    DBS  |N
+DESEMPENHO                    DSMP |N
+DESEMPREGO                    DEMP |N
+DESENHAR                      DSNH |N
+DESENVOLVEDOR                 DESD |N
+DESENVOLVER                   DES  |N
+DESENVOLVIMENTO               DESM |N
+DESFAZER                      DSFZ |N
+DESIGNACAO                         |N
+DESIGUAL                           |N
+DESIMOBILIZACAO               DIMB |N
+DESIMPEDIMENTO                DMPT |N
+DESISTENCIA                   DSTA |N
+DESLIGADO                     DSGD |N
+DESLIGAMENTO                  DSG  |N
+DESLIGAR                      DSGR |N
+DESLOCAMENTO                  DESL |N
+DESMEMBRADO                   DMBD |N
+DESNIVEL                      DNVL |N
+DESONERACAO                        |N
+DESPACHO                      DPC  |N
+DESPESA                       DSP  |N
+DESTACAR                      DSCR |N
+DESTAQUE                      DTQ  |N
+DESTINACAO                    DTNC |N
+DESTINATARIO                  DSTR |N
+DESTINO                       DST  |N
+DESTRUICAO                    DSTC |N
+DESTRUIR                      DTRU |N
+DESVALORIZACAO                DVLZ |N
+DESVANTAGEM                   DVTG |N
+DESVINCULACAO                      |N
+DESVINCULAR                   DSVN |N
+DESVIO                        DSV  |N
+DESVIO PADRAO                 DPDR |N
+DETALHADO                     DETD |N
+DETALHAMENTO                  DETT |N
+DETALHAR                      DTLH |N
+DETALHE                       DET  |N
+DETECTADO                     DTCD |N
+DETENTOR                      DTTR |N
+DETERMINACAO                  DTM  |N
+DETERMINADO                   DTD  |N
+DETERMINADOR                       |N
+DETERMINANTE                  DTMT |N
+DETERMINAR                    DTMR |N
+DEVEDOR                       DVDR |N
+DEVICE                        DVCE |N
+DEVIDO                        DVDD |N
+DEVOLUCAO                     DVLC |N
+DEVOLVER                      DVLR |N
+DEVOLVIDO                     DLVD |N
+DEZEMBRO                      DEZB |N
+DHCP                          DHCP |N
+DIA                           DD   |S <-- NATUREZA
+DIAGNOSTICADO                 DGND |N
+DIAGNOSTICO                   DGN  |N
+DIARIA                        DRIA |N
+DIARIO                        DIAR |N
+DIARIO OFICIAL DA UNIAO       DOU  |N
+DIDATICA                      DDCA |N
+DIDATICO                      DDCO |N
+DIFERENCA                     DFRC |N
+DIFERENCIAL                   DFRL |N
+DIFERENTE                     DFRT |N
+DIFERIDO                      DIFD |N
+DIFERIMENTO                   DFMT |N
+DIFERIR                       DIFR |N
+DIFICIL                       DFCL |N
+DIGITACAO                     DGTC |N
+DIGITADO                      DGTD |N
+DIGITADOR                     DGTR |N
+DIGITAL                       DGTL |N
+DIGITAL AUDIO TAPE            DAT  |N
+DIGITALIZACAO                 DGZ  |N
+DIGITALIZADO                  DGZD |N
+DIGITALIZAR                   DGZR |N
+DIGITAR                       DGT  |N
+DIGITAVEL                     DGTV |N
+DIGITO                        DGTO |N
+DIGITO VERIFICADOR            DV   |S <-- NATUREZA
+DILACERADO                         |N
+DILIGENCIA                    DLGC |N
+DILUIDO                       DLDO |N
+DILUIR                        DLIR |N
+DIMENSAO                      DIM  |N
+DIMINUICAO                         |N
+DIMINUIDO                          |N
+DINAMICO                      DNMC |N
+DINHEIRO                      DNH  |N
+DIRECIONADOR                  DRCR |N
+DIRECIONAMENTO                     |N
+DIREITO                       DRT  |N
+DIRETO                        DIR  |N
+DIRETORIA                     DRTA |N
+DIRETORIO                     DRET |N
+DIRETORIO NACIONAL ENDERECOS  DNE  |N
+DIRETRIZ                      DTZ  |N
+DIRF                          DIRF |N
+DIRIGENTE                          |N
+DIRIGIDO                      DRGD |N
+DISCAGEM DIRETA A DISTANCIA   DDD  |N
+DISCAGEM DIRETA INTERNACIONAL DDI  |N
+DISCIPLINA                    DCP  |N
+DISCIPLINAR                   DCPR |N
+DISCO                         DCO  |N
+DISCORDANCIA                  DCDC |N
+DISCREPANCIA                       |N
+DISCRETO                      DCRT |N
+DISCUSSAO                          |N
+DISPENDIO                          |N
+DISPENSA                      DPS  |N
+DISPONIBILIDADE               DSPB |N
+DISPONIBILIZADO               DSPD |N
+DISPONIBILIZADOR                   |N
+DISPONIBILIZAR                DSPR |N
+DISPONIVEL                    DSPN |N
+DISPOR                        DIPR |N
+DISPOSITIVO                   DSVO |N
+DISPOSITIVO DE ENTRADA E SAIDADSIO |N
+DISPOSITIVO LEGAL             DSLG |N
+DISPUTA                       DSPT |N
+DISSEMINAR                    DSMR |N
+DISSENSAO                          |N
+DISSIDENCIA                   DSS  |N
+DISSIDIO                           |N
+DISTANCIA                          |N
+DISTINCAO                          |N
+DISTINTO                           |N
+DISTRIBUICAO                  DIST |N
+DISTRIBUIDO                   DSTD |N
+DISTRIBUIDOR                  DISR |N
+DISTRIBUIR                    DSTB |N
+DISTRITO                      DSTT |N
+DIURNO                        DRNO |N
+DIVERGENCIA                   DVGA |N
+DIVERSO                       DIV  |N
+DIVIDA                        DVD  |N
+DIVIDENDO                     DIVD |N
+DIVIDIR                       DVIR |N
+DIVISAO                       DVS  |N
+DIVISAO DE PRCT E TELEMATICA  DPT  |N
+DIVISOR                       DVSR |N
+DIVISORIO                          |N
+DIVULGACAO                    DVGC |N
+DIVULGADO                     DVGD |N
+DIVULGADOR                    DVGR |N
+DIVULGAR                      DVG  |N
+DLCI                               |N
+DLO                                |N
+DM                                 |N
+DNE                                |N
+DOACAO                        DOA  |N
+DOADO                         DOAD |N
+DOADOR                        DOAR |N
+DOC ARRECAD RECEITAS FEDERAIS DARF |N
+DOCUMENTACAO                  DOCC |N
+DOCUMENTAR                    DCMT |N
+DOCUMENTARIO                  DOCR |N
+DOCUMENTO                     DOC  |N
+DOCUMENTO ACERTO DIFERENCA    DAD  |N
+DOCUMENTO TRANSF ENTRE CONTAS DDOC |N
+DOENCA                        DNCA |N
+DOIS                          DOIS |N
+DOLAR                         USD  |N
+DOMAIN NAME SERVER            DNS  |N
+DOMICILIAR                    DMCL |N
+DOMICILIO                          |N
+DOMINGO                       DMG  |N
+DOMINIO                       DOM  |N
+DONO                               |N
+DORMITORIO                    DMRO |N
+DOSSIE                        DSIE |N
+DOTACAO                       DOTC |N
+DOUTORADO                     DRDO |N
+DOWNLOAD                      DLOD |N
+DRENAGEM                      DREG |N
+DRIVE                         DRIV |N
+DSNAME                             |N
+DSR                           DSR  |N
+DTVM                               |N
+DUMP                          DUMP |N
+DUPLICADO                          |N
+DUPLICATA                     DPCT |N
+DUPLICIDADE                   DPCD |N
+DUPLO                         DUPL |N
+DURACAO                       DRCO |N
+DURANTE                       DRNT |N
+DUTO                          DUTO |N
+DUVIDOSO                      DUVS |N
+DV                                 |N
+DW                                 |N
+EASYTRIEVE                    ESYT |N
+EBCDIC                        EBDC |N
+ECLUSA                        ECLA |N
+ECOEFICIENCIA                 ECEF |N
+ECONOMIA                      ECN  |N
+ECONOMICO                     ECNC |N
+ECT                                |N
+EDICAO                        EDCO |N
+EDIFICACAO                         |N
+EDITAL                        EDT  |N
+EDITAR                        EDTR |N
+EDITORA                       EDTA |N
+EDUCACAO                      EDC  |N
+EDUCADOR                           |N
+EDUCAR                        EDCR |N
+EFEITO                        EFE  |N
+EFETIVACAO                    EFTC |N
+EFETIVADO                     EFTD |N
+EFETIVO                       EFT  |N
+EIXO                          EIXO |N
+ELABORACAO                    ELBC |N
+ELABORADO                     ELBD |N
+ELABORAR                      ELB  |N
+ELECTRONIC DATA INTERCHANGE   EDI  |N
+ELEICAO                       ELEC |N
+ELEITORAL                     ELTL |N
+ELEMENTAR                          |N
+ELEMENTO                      ELM  |N
+ELETIVO                       ELEV |N
+ELETRICIDADE                  ELT  |N
+ELETRICO                      ELTC |N
+ELETRIFICADO                  ELTF |N
+ELETRONICA                    ELET |N
+ELETRONICO                    ETN  |N
+ELEVACAO                           |N
+ELEVADO                       ELV  |N
+ELEVAR                        ELVR |N
+ELIMINACAO                         |N
+ELIMINADO                          |N
+ELIMINAR                           |N
+ELO                           ELO  |N
+EM SER                             |N
+EMAIL                         EMAI |N
+EMBALAGEM                     EBGM |N
+EMBARCACAO                    EBC  |N
+EMBARCADO                     EBCD |N
+EMBARCADOR                    EMRR |N
+EMBARCAR                      EBCR |N
+EMBARQUE                      EMR  |N
+EMBOLSADO                     EBSD |N
+EMBOLSADOR                    EBSR |N
+EMBOLSAR                      EBSA |N
+EMBOLSO                       EBS  |N
+EMBOSSADO                     EMBD |N
+EMBOSSAMENTO                  EMBT |N
+EMBRATEL                      EMBR |N
+EMENDA                        EMND |N
+EMENDA LEGISLATIVA            EMLG |N
+EMERGENCIAL                        |N
+EMISSAO                       EMS  |N
+EMISSOR                            |N
+EMITENTE                      EMT  |N
+EMITIDO                       EMTD |N
+EMITIR                        EMTR |N
+EMOLUMENTO                    EMOL |N
+EMP BRAS CORREIOS TELEGRAFOS  ECT  |N
+EMPACOTAR                     ECTR |N
+EMPENHO                       EPN  |N
+EMPLACAMENTO                  EPLC |N
+EMPREENDEDOR                  EPRR |N
+EMPREENDIMENTO                EPRD |N
+EMPREGADO                          |N
+EMPREGADOR                    EPGR |N
+EMPREGATICIO                  EPGC |N
+EMPREGO                       EMP  |N
+EMPRESA                            |N
+EMPRESA BRAS TELECOMUNICACAO       |N
+EMPRESARIAL                   EPRL |N
+EMPRESTADO                    EPTD |N
+EMPRESTIMO                    EPTM |N
+EMPRESTIMO DO GOVERNO FEDERAL EGF  |N
+ENCADEAMENTO                       |N
+ENCADEAR                           |N
+ENCADERNAR                    ENDR |N
+ENCAIXE                       ECXE |N
+ENCAMINHADOR                  ECMR |N
+ENCAMINHAMENTO                ECMT |N
+ENCARGO                       ENCG |N
+ENCARTEIRADO                  ENCO |N
+ENCARTEIRAMENTO               ENCT |N
+ENCARTEIRAR                   ENCR |N
+ENCERRADO                     ECRD |N
+ENCERRAMENTO                  ECR  |N
+ENCERRAR                      ECRR |N
+ENCOMENDAR                    ECDR |N
+ENDERECAR                     EDER |N
+ENDERECO                      END  |N
+ENDIVIDAMENTO                 EDV  |N
+ENDIVIDAR                     EDVR |N
+ENDOSSAR                      EDSR |N
+ENDOSSO                       EDS  |N
+ENERGETICO                    ENGC |N
+ENERGIA                       ENG  |N
+ENFASE                             |N
+ENFOQUE                       EFQ  |N
+ENGENHARIA                    ENGN |N
+ENQUADRADO                    ENQD |N
+ENQUADRAMENTO                 ENQ  |N
+ENQUETE                       EQT  |N
+ENRIQUECIMENTO                ENRQ |N
+ENSEJO                             |N
+ENSINO                        ENSN |N
+ENTE FEDERADO                      |N
+ENTE FEDERATIVO               ENTF |N
+ENTENDER                      ETDR |N
+ENTIDADE                      ENT  |N
+ENTRADA                       ENTD |N
+ENTRAR                        ENTR |N
+ENTREGA                       ETGA |N
+ENTREGAR                      ETGR |N
+ENTREGUE                      ETGE |N
+ENTRERPRISE NETWORK SOLUTION  ENS  |N
+ENTREVISTA                    ETV  |N
+ENTREVISTADOR                 ETVO |N
+ENTREVISTAR                   ETVR |N
+ENTRONCAMENTO                 ENTM |N
+ENVELOPE                      ENVP |N
+ENVIADO                       ENV  |N
+ENVIAR                        ENVR |N
+ENVIO                         ENVO |N
+ENVOLVIDO                          |N
+ENXOVAL                       ENXV |N
+EPOCA                         EPCA |N
+EQUALIZACAO                   EQZC |N
+EQUALIZAVEL                   EQZV |N
+EQUILIBRIO                    EQL  |N
+EQUIPAMENTO                   EQPO |N
+EQUIPE                        EQP  |N
+EQUIVALENCIA                  EQV  |N
+ERRO                          ERRO |N
+ESCALA                        ESCL |N
+ESCALAO                            |N
+ESCALONAMENTO                      |N
+ESCANINHO                     ESCN |N
+ESCLARECIMENTO                ESCM |N
+ESCOLA                        ECL  |N
+ESCOLAR                       ECLR |N
+ESCOLARIDADE                  ECLD |N
+ESCOLHA                            |N
+ESCOLHER                           |N
+ESCOLHIDO                          |N
+ESCOPO                        ECP  |N
+ESCRITURACAO                       |N
+ESCRITURAL                    ESL  |N
+ESCRITURAR                         |N
+ESCUDO                        ECDO |N
+ESOCIAL                       ESOL |N
+ESPACIAL                      ESPA |N
+ESPACO                        ESP  |N
+ESPECIAL                      ESPL |N
+ESPECIALIDADE                 ESPD |N
+ESPECIALISTA                  ESPS |N
+ESPECIALIZACAO                EPCL |N
+ESPECIE                       ESPC |N
+ESPECIFICACAO                 EPC  |N
+ESPECIFICAR                   EPCR |N
+ESPECIFICO                    ESPO |N
+ESPERA                        EPR  |N
+ESPERADO                      EPRO |N
+ESPIRITO                      ESPT |N
+ESPORADICO                         |N
+ESPORTE                       ESPR |N
+ESQUERDO                      ESQ  |N
+ESTABELECER                   EBLR |N
+ESTABELECIDO                  ETBL |N
+ESTABELECIMENTO                    |N
+ESTACAO                       ESTO |N
+ESTACIONAMENTO                ETMT |N
+ESTADO                        EST  |N
+ESTADUAL                           |N
+ESTAGIARIO                    ESGO |N
+ESTAGIO                       ESG  |N
+ESTANTE                       ESNT |N
+ESTATICO                      ETTO |N
+ESTATISTICA                   ETTC |N
+ESTATUTARIO                   ETTR |N
+ESTBAN                        ESTB |N
+ESTE                               |N
+ESTFIN                        ESTF |N
+ESTIMADO                           |N
+ESTIMAR                            |N
+ESTIMATIVA                    ESTV |N
+ESTIMULADO                         |N
+ESTIMULO                           |N
+ESTIPULANTE                   ETLE |N
+ESTOCAVEL                     ETVL |N
+ESTOQUE                       ETO  |N
+ESTORNADO                     ESTD |N
+ESTORNAR                      ESTR |N
+ESTORNO                       ESTN |N
+ESTRANGEIRO                   ETG  |N
+ESTRATEGIA                    ESTT |N
+ESTRATEGICO                   ESTG |N
+ESTRUTURA                     ETR  |N
+ESTRUTURACAO                  ETRO |N
+ESTRUTURADO                   ETRD |N
+ESTUDANTIL                    ETDL |N
+ETAPA                         ETP  |N
+ETARIA                        ETAR |N
+ETICO                         ETCO |N
+ETIQUETA                      ETQ  |N
+EURO                          EUR  |N
+EUROPEU                       EURO |N
+EVENTO                        EVT  |N
+EVENTUAL                      EVTL |N
+EVIDENCIA                     EVD  |N
+EVOLUCAO                      EVLC |N
+EXAME                         EXM  |N
+EXAMINAR                      EXMR |N
+EXCECAO                       EXCO |N
+EXCEDENTE                          |N
+EXCEDIDO                      EXDD |N
+EXCELENCIA                    EXL  |N
+EXCELENTE                     EXLT |N
+EXCESSO                       EXC  |N
+EXCETO                        EXCE |N
+EXCLUIDO                      EXCD |N
+EXCLUIR                       EXCR |N
+EXCLUSAO                      EXCL |N
+EXCLUSIVAMENTE                     |N
+EXCLUSIVO                     EXCS |N
+EXECUCAO                      EXEA |N
+EXECUTADO                     EXCT |N
+EXECUTANTE                    EXEC |N
+EXECUTAR                      EXAR |N
+EXECUTIVO                     EXCV |N
+EXECUTOR                           |N
+EXEMPLAR                      EXPL |N
+EXERCICIO                     EXCC |N
+EXERCITO                      EXRC |N
+EXIBICAO                      EXB  |N
+EXIBIR                        EXBR |N
+EXIGENCIA                     EXG  |N
+EXIGIBILIDADE                 EXGD |N
+EXIGIDO                       EXGO |N
+EXIGIR                        EXGR |N
+EXIGIVEL                      EXGL |N
+EXILADO                            |N
+EXISTENCIA                    EXT  |N
+EXISTENTE                     EXTT |N
+EXITO                         EXI  |N
+EXONERACAO                         |N
+EXONERAR                           |N
+EXPANSAO                      EXPN |N
+EXPATRIADO                    EPDO |N
+EXPEDICAO                     EXD  |N
+EXPEDIDO                           |N
+EXPEDIDOR                     EXDR |N
+EXPEDIENTE                    EXDT |N
+EXPEDIR                       EXPD |N
+EXPERIENCIA                   EXR  |N
+EXPERIENTE                    EXRT |N
+EXPERIMENTAL                  EXRM |N
+EXPIRACAO                     EXPC |N
+EXPLICACAO                         |N
+EXPLICADO                          |N
+EXPLICAR                           |N
+EXPLORACAO                    EPL  |N
+EXPLORADO                     EPLD |N
+EXPOENTE                      EXPT |N
+EXPORTACAO                    EXP  |N
+EXPORTADOR                    EXPR |N
+EXPOSICAO                     EXPO |N
+EXPRESSO                      EXPS |N
+EXPURGADO                          |N
+EXPURGAR                           |N
+EXPURGO                            |N
+EXTENSAO                      ETS  |N
+EXTENSIBILIDADE               ETSD |N
+EXTENSO                       ETSO |N
+EXTERIOR                      EXTR |N
+EXTERNO                       EXNO |N
+EXTINCAO                      EXNC |N
+EXTINTO                       EXN  |N
+EXTINTOR                      EXNT |N
+EXTRA                         EXTA |N
+EXTRACAIXA                    EXCX |N
+EXTRACAO                      EXTC |N
+EXTRAMERCADO                  ETMC |N
+EXTRAORDINARIO                     |N
+EXTRAPOLACAO                  EXTL |N
+EXTRATO                       EXTO |N
+EXTRAVIADO                    EXVD |N
+EXTREMO                            |N
+FABRICACAO                         |N
+FABRICADO                          |N
+FABRICANTE                         |N
+FACHADA                       FACH |N
+FACILITADOR                   FCTR |N
+FACILITAR                     FCLR |N
+FAIXA                         FXA  |N
+FALECIMENTO                        |N
+FALENCIA                      FLC  |N
+FALHA                              |N
+FALIDO                        FLD  |N
+FALSIFICACAO                  FLS  |N
+FALSIFICADO                   FLSD |N
+FALSIFICAR                    FLSR |N
+FALSO                         FLSO |N
+FALTA                         FLTA |N
+FAMILIA                       FAM  |N
+FAMILIAR                      FMLR |N
+FANTASIA                      FANT |N
+FAQ                                |N
+FASE                          FASE |N
+FATCA                         FTC  |N
+FATO                          FATO |N
+FATO GERADOR                  FTGR |N
+FATOR                         FTR  |N
+FATOR ATL COMISSAO PERMANENCIAFACP |N
+FATURA                        FAT  |N
+FATURADO                      FATD |N
+FATURAMENTO                   FATM |N
+FATURAR                       FATR |N
+FAVOR                         FVR  |N
+FAVORAVEL                     FVRL |N
+FAVORECER                          |N
+FAVORECIDO                         |N
+FAX                           FAX  |N
+FCO                           FCO  |N
+FCVS                          FCVS |N
+FEBRABAN                      FBBN |N
+FECHADO                            |N
+FECHADURA                     FCHD |N
+FECHAMENTO                    FCHT |N
+FECHAR                             |N
+FEDERACAO NACIONAL DOS BANCOS      |N
+FEDERAL                       FDRL |N
+FEI                           FEI  |N
+FEMININO                      FMNN |N
+FENABAN                       FNBN |N
+FERIADO                       FRDO |N
+FERIAS                        FERS |N
+FERRAMENTA                         |N
+FERREO                        FRR  |N
+FERROVIA                      FRV  |N
+FERROVIARIO                   FRVR |N
+FERTIL                        FRL  |N
+FERTILIZANTE                  FRLZ |N
+FEVEREIRO                     FEVR |N
+FGPC                               |N
+FGTS                          FGTS |N
+FIADOR                             |N
+FIANCA                             |N
+FIBER DISTRIBUTED DATA INTERFAFDDI |N
+FICHA                         FCH  |N
+FICHA CADASTRAL               FCAD |N
+FICTICIO                      FCTC |N
+FIDELIDADE                    FDLD |N
+FIDUCIARIO                    FDAR |N
+FIEL-DEPOSITARIO              FDPR |N
+FILA                          FILA |N
+FILE TRANSFER PROTOCOL        FTP  |N
+FILHO                         FLHO |N
+FILIAL                        FIL  |N
+FILTRO                        FLTR |N
+FIM                           FIM  |N
+FINAL                              |N
+FINALIDADE                    FNLD |N
+FINALIZACAO                   FIN  |N
+FINALIZADO                    FIND |N
+FINALIZAR                     FNLZ |N
+FINAME                        FNM  |N
+FINANCAS                      FNC  |N
+FINANCEIRA                    FNCR |N
+FINANCEIRO                    FNCO |N
+FINANCIADO                    FNCD |N
+FINANCIADOR                   FNND |N
+FINANCIAMENTO                 FNTO |N
+FINANCIAVEL                   FNCV |N
+FIO                           FIO  |N
+FIRMA                              |N
+FIRMAR                             |N
+FISCAL                        FSC  |N
+FISCALIZACAO                  FSCC |N
+FISCALIZAR                    FSCR |N
+FISICO                        FSCO |N
+FISIOGRAFICO                  FSGC |N
+FITA                          FITA |N
+FITOTECA                      FITC |N
+FIXACAO                       FXCO |N
+FIXO                          FXO  |N
+FLAG                               |N
+FLAT                          FLAT |N
+FLAT FILE                     FFL  |N
+FLEXIBILIDADE                 FLDD |N
+FLEXIBILIZACAO                FLZ  |N
+FLEXIBILIZADO                 FLZD |N
+FLEXIVEL                      FLVL |N
+FLOAT                         FLOT |N
+FLUTUANTE                          |N
+FLUVIAL                       FLVA |N
+FLUXO                         FLX  |N
+FOB                           FOB  |N
+FOCO                          FOCO |N
+FOLDER                        FDE  |N
+FOLGA                         FLG  |N
+FOLHA                         FLH  |N
+FOLHA INDIVIDUAL DE PRESENCA  FIP  |N
+FONETICO                      FNET |N
+FONTE                         FON  |N
+FORA                          FORA |N
+FOREIGN KEY                   FK   |N
+FORMA                         FMA  |N
+FORMACAO                      FRMC |N
+FORMADOR                      FRMD |N
+FORMAL                        FMAL |N
+FORMALIDADE                   FRMR |N
+FORMALIZACAO                  FRMZ |N
+FORMALIZADO                   FRMO |N
+FORMALIZAR                    FMZR |N
+FORMAR                        FOMR |N
+FORMATACAO                    FMTC |N
+FORMATADO                     FMTD |N
+FORMATAR                      FRMT |N
+FORMATO                       FMT  |N
+FORMULA                       FMLA |N
+FORMULARIO                    FML  |N
+FORNECEDOR                    FRNC |N
+FORNECIDO                     FRND |N
+FORNECIMENTO                  FRN  |N
+FORTE                         FRT  |N
+FORTUNA DO MAR                FTMR |N
+FORUM                              |N
+FOTO                          FTO  |N
+FOTOGRAFIA                    FTG  |N
+FOZ                           FOZ  |N
+FPAS                          FPAS |N
+FPS                           FPS  |N
+FRACAO                        FRC  |N
+FRACIONADO                    FRCD |N
+FRACO                         FRA  |N
+FRAGIL                        FRG  |N
+FRAGILIDADE                   FRGD |N
+FRANQUIA                      FRQU |N
+FRAUDADO                      FRDD |N
+FRAUDE                        FRD  |N
+FREEPAGE                      FRPG |N
+FRENTE                        FRNT |N
+FREQUENCIA                    FRQ  |N
+FREQUENTE                          |N
+FREQUENTLY ASKED QUESTION     FAQ  |N
+FRETADO                       FRED |N
+FRETAR                        FRER |N
+FRETE                         FRE  |N
+FRONTEIRA                     FRTR |N
+FROTA                         FROT |N
+FRUSTRACAO                    FRS  |N
+FRUTO                              |N
+FUNCAO                        FUC  |N
+FUNCIONAL                     FUNL |N
+FUNCIONALIDADE                     |N
+FUNCIONAMENTO                 FCN  |N
+FUNCIONARIO                   FUN  |N
+FUNDACAO                      FDC  |N
+FUNDEADOURO                   FNDD |N
+FUNDICAO                      FND  |N
+FUNDIDOR                      FNDR |N
+FUNDING                       FUDG |N
+FUNDO                         FNDO |N
+FUNDO COMPENSACAO VARIACOES SA     |N
+FUNDO DE AMPARO AO TRABALHADORFATB |N
+FUNDO DE PREVIDENCIA A ASSIST      |N
+FUNDO GARANTIA PROMOCAO COMPETFGPC |N
+FUNDO GARANTIDOR DE CREDITO   FGC  |N
+FUNDO MUTUO DE PRIVATIZACAO   FMP  |N
+FUNGIVEL                      FGVL |N
+FUNICULAR                     FUNR |N
+FUSAO                         FUS  |N
+FUSO HORARIO                  FSHR |N
+FUTURO                        FUT  |N
+GABINETE                           |N
+GALERIA                       GLRA |N
+GANHO                         GNH  |N
+GARANTIA                      GRT  |N
+GARANTIA FIDEJUSSORIA              |N
+GARANTIA PESSOAL              GRPL |N
+GARANTIA REAL                 GRRL |N
+GARANTIDO                          |N
+GARANTIDOR                    GRTR |N
+GARANTIR                           |N
+GASTO                         GSTO |N
+GATEWAY                       GTWY |N
+GAVETA                        GVTA |N
+GBYTE                              |N
+GDP                                |N
+GENERICO                           |N
+GENERO                        GNR  |N
+GENITOR                            |N
+GEOGRAFICO                    GEO  |N
+GEOMETRIA                     GEM  |S <-- NATUREZA
+GEORREFERENCIAMENTO           GER  |N
+GERACAO                            |N
+GERADOR                            |N
+GERAL                         GRL  |N
+GERAR                              |N
+GERENCIA                           |N
+GERENCIADOR                   GRDR |N
+GERENCIAL                     GRNL |N
+GERENCIAMENTO                 GRTO |N
+GERENCIAR                          |N
+GERENCIAVEL                   GRVL |N
+GERENTE                            |N
+GERIR                         GRIR |N
+GERMINACAO                    GMN  |N
+GESTAO                             |N
+GESTAO DE ATIVOS E PASSIVOS   GTAP |N
+GESTAO DE DESENVOLV DO PESSOALGDP  |N
+GESTOR                        GST  |N
+GIGABYTE                      GB   |N
+GIRADOR                       GIRD |N
+GIRATORIO                     GIRT |N
+GIRO                          GIR  |N
+GIRO FINANCEIRO               GRFN |N
+GIRO RAPIDO                   GRRD |N
+GLEBA                         GLBA |N
+GLOBAL                        GLB  |N
+GLOBALIZACAO                  GLBZ |N
+GLOSA                         GLS  |N
+GLOSADO                       GLSD |N
+GLOSSARIO                     GLOS |N
+GMT                                |N
+GOVERNO                       GOV  |N
+GOVERNO FEDERAL               GOVF |N
+GPS                                |N
+GRADUACAO                     GRD  |N
+GRAFICA                       GRFA |N
+GRAFICO                       GRF  |N
+GRAMA                         G    |N
+GRAO                          GRAO |N
+GRAPHICS INTERCHANGE FORMAT   GIF  |N
+GRATIFICACAO                       |N
+GRAU                               |N
+GRAVACAO                      GRV  |N
+GRAVADO                       GRVD |N
+GRAVAME                       GRVM |N
+GRAVAR                        GRVR |N
+GRAVE                         GRVE |N
+GRAVIDEZ                      GVD  |N
+GREENWICH MEAN TIME           GMT  |N
+GREVE                         GEV  |N
+GRUPAMENTO                         |N
+GRUPO                         GR   |N
+GRUPO SETEX                   GSTX |N
+GUARDA                        GDA  |N
+GUIA                          GUIA |N
+GUIA DA PREVIDENCIA SOCIAL    GPS  |N
+HABILIDADE                         |N
+HABILITACAO                   HBLT |N
+HABILITADO                         |N
+HABILITAR                     HBLR |N
+HABITACAO                          |N
+HABITE-SE                     HBTS |N
+HABITO                        HBT  |N
+HABITUAL                      HBTL |N
+HABITUALIDADE                 HBTD |N
+HARDWARE                      HW   |N
+HASH                          HASH |N
+HEADER                        HDR  |N
+HECTARE                       HA   |N
+HEDGE                         HEDG |N
+HELP                               |N
+HEMISFERIO                    HMF  |N
+HERDEIRO                      HRD  |N
+HIDRICO                       HDRC |N
+HIDROVIA                      HDRA |N
+HIDROVIARIO                   HDRV |N
+HIERARQUIA                    HRQ  |N
+HIERARQUICO                   HRQO |N
+HIPOTECA                      HPT  |N
+HISTORICO                     HST  |N
+HIT                           HIT  |N
+HOB                                |N
+HOBBY                         HBBY |N
+HOLDING                       HDNG |N
+HOME BROKER                   HBK  |N
+HOME OFFICE BANKING           HOB  |N
+HOMOGENEIZAR                  HMGR |N
+HOMOLOGACAO                        |N
+HOMOLOGADO                         |N
+HOMOLOGADOR                        |N
+HOMOLOGAR                          |N
+HOMONIMO                      HMN  |N
+HONORARIO                          |N
+HONRA                         HNR  |N
+HONRADO                       HNRD |N
+HONRAR                        HNRR |N
+HORA                          HH   |S <-- NATUREZA
+HORARIO                       HR   |S <-- NATUREZA
+HORIZONTAL                    HRZL |N
+HOSPEDAGEM                    HPD  |N
+HOSPEDAR                      HPDR |N
+HOSPEDE                       HPDE |N
+HOSPEDEIRO                    HPDO |N
+HOST                               |N
+HOTEL                         HTL  |N
+HREF                          HREF |N
+HTML                               |N
+HUB                           HUB  |N
+HUMANO                        HMNO |N
+HYPER TEXT MARKUP LANGUAGE    HTML |N
+HYPER TEXT TRANSFER PROTOCOL  HTTP |N
+IBAN                          IBAN |N
+IBGE                               |N
+ICMS                               |N
+ID BLOCK                      IDBK |N
+ID NUMBER                     IDNR |N
+IDA                           IDA  |N
+IDADE                         IDD  |N
+IDEAL                         IDEL |N
+IDEIA                         IDEA |N
+IDENTICO                           |N
+IDENTIDADE                    RG   |N
+IDENTIFICACAO                 IDFC |N
+IDENTIFICACAO DIGITAL         IDGL |N
+IDENTIFICADO                  IDFD |N
+IDENTIFICADOR                 IDFR |N
+IDENTIFICADOR SIS PGTO BRL    ISPB |N
+IDENTIFICAR                   IDF  |N
+IDIOMA                        IDI  |N
+IENE                          IENE |N
+IGP                           IGP  |N
+IGUAL                         IGL  |N
+IGUALAR                       IGLR |N
+ILICITO                       ILCT |N
+IMAGEM                        IM   |S <-- NATUREZA
+IMOBILIARIA                   IMRA |N
+IMOBILIARIO                   IMRO |N
+IMOBILIZADO                   IMBD |N
+IMOVEL                        IMV  |N
+IMPACTO                            |N
+IMPEDIMENTO                   IMPT |N
+IMPENHORABILIDADE             IPNH |N
+IMPESSOAL                     IPSL |N
+IMPLANTACAO                   IPLC |N
+IMPLEMENTACAO                 IPMC |N
+IMPLEMENTAR                   IPMR |N
+IMPLEMENTO                    IPMT |N
+IMPOR                              |N
+IMPORTACAO                    IMP  |N
+IMPORTADOR                    IMPD |N
+IMPORTANCIA                   IPTC |N
+IMPORTANTE                    IPTT |N
+IMPORTAR                      IMTR |N
+IMPOSICAO                          |N
+IMPOSTO                       IMPO |N
+IMPOSTO  S/PROPR VEIC AUTO    IPVA |N
+IMPOSTO CIRCULACAO MERC SERV  ICMS |N
+IMPOSTO DE RENDA              IR   |N
+IMPOSTO PREDIAL TER URBANO    IPTU |N
+IMPOSTO PROD INDUSTRIALIZADOS IPI  |N
+IMPOSTO SOBRE OPR FINANCEIRAS IOF  |N
+IMPOSTO SOBRE SERVICO         ISS  |N
+IMPOSTO TERRITORIAL RURAL     IPTR |N
+IMPRENSA                      IMPN |N
+IMPRESSA                      IMPA |N
+IMPRESSAO                     IMPS |N
+IMPRESSORA                    IMPR |N
+IMPRIMIR                      IRMR |N
+IMPUGNACAO                    IPGC |N
+IMPUGNADO                     IPGD |N
+IMPUGNAR                      IPGR |N
+IMUNIDADE                     IMN  |N
+INABILITACAO                       |N
+INADIMPLENCIA                 INDP |N
+INADIMPLENTE                  INDT |N
+INATIVIDADE                   IATD |N
+INATIVO                       IATV |N
+INCENDIO                      ICN  |N
+INCENTIVADO                   ITVD |N
+INCENTIVO                     ITVO |N
+INCERTO                            |N
+INCIDENCIA                    ICD  |N
+INCIDENTAL                         |N
+INCIDENTE                          |N
+INCLUIDO                      INCD |N
+INCLUIR                       INCR |N
+INCLUSAO                      INCL |N
+INCOMPATIVEL                  ICPT |N
+INCOMPLETO                    ICMT |N
+INCONDICIONAL                 ICND |N
+INCONSISTENCIA                INTC |N
+INCORPORACAO                  INP  |N
+INCORPORADO                   INPO |N
+INCORPORADOR                  INPD |N
+INCORPORAR                    INPR |N
+INCORRETO                          |N
+INCRA                         ICRA |N
+INCREMENTO                         |N
+INDEFERIMENTO                 IDMT |N
+INDEFERIR                     IDMR |N
+INDEFINIDO                         |N
+INDENIZACAO                   IDZC |N
+INDENIZADO                    IDZD |N
+INDENIZAR                     IDZR |N
+INDETERMINACAO                IDT  |N
+INDETERMINADO                 IDTD |N
+INDEX                         NDX  |N
+INDEXACAO                     IDXC |N
+INDEXADO                      IDXD |N
+INDEXADOR                     IDX  |N
+INDICACAO                     INCC |N
+INDICADO                      INCO |N
+INDICADOR                     IN   |S <-- NATUREZA
+INDICADOR DE DESEMPENHO       INDS |N
+INDICADOR ECONOMICO           IEC  |N
+INDICAR                       IDCR |N
+INDICE                        IC   |S <-- NATUREZA
+INDICIO                       IDCO |N
+INDIRETO                      IDR  |N
+INDISPONIBILIDADE             IDSP |N
+INDIVIDUAL                    INDV |N
+INDIVIDUALIZACAO              IDVC |N
+INDIVIDUALIZAR                IDVR |N
+INDUSTRIA                     IND  |N
+INDUSTRIAL                    INDL |N
+INEGOCIAVEL                   INGC |N
+INFERIOR                      INFR |N
+INFLACAO                      IFL  |N
+INFLACIONAR                   IFLR |N
+INFLUENCIA                    IFLC |N
+INFORMACAO                    INF  |N
+INFORMACAO GERENCIAL          INFG |N
+INFORMADO                     INFD |N
+INFORMAL                      IFMA |N
+INFORMAR                      IFMR |N
+INFORMATICA                   INFT |N
+INFORMATIVO                   INFM |N
+INFORMATIZADO                 INFZ |N
+INFRA-ESTRUTURA                    |N
+INFRAESTRUTURA                IETR |N
+INGERENCIA                    IGR  |N
+INGLES                        INGL |N
+INGRESSADO                    IGRD |N
+INICIADO                      INCI |N
+INICIAL                            |N
+INICIAR                       INIR |N
+INICIATIVA                    INIC |N
+INICIO                        INC  |N
+INOPERANCIA                   INOP |N
+INOPERANTE                    IOPT |N
+INORGANICO                    IOGC |N
+INOVACAO                      IOV  |N
+INQUERITO                     INQ  |N
+INSALUBRIDADE                 ISBD |N
+INSATISFACAO                  ISAT |N
+INSCRICAO                     ISCR |N
+INSCRICAO ESTADUAL            IE   |N
+INSCRITO                      ISCT |N
+INSERCAO                           |N
+INSERIDO                           |N
+INSERIR                            |N
+INSOLVENCIA                   ISLC |N
+INSOLVENTE                    ISLV |N
+INSPECIONAR                   ISPR |N
+INSS                               |N
+INST BRAS GEOGRAFIA ESTATISTICIBGE |N
+INST NAC DE SEGURIDADE SOCIAL INSS |N
+INSTALACAO                    ITLC |N
+INSTALAR                      INSL |N
+INSTANCIA                          |N
+INSTANCIA GOVERNAMENTAL       INGV |N
+INSTAURADO                    ISTD |N
+INSTAURAR                     ISTR |N
+INSTITUCIONAL                 INTT |N
+INSTITUICAO                   INST |N
+INSTITUICAO FINANCEIRA        IFC  |N
+INSTITUICAO ORGANIZACIONAL    IOR  |N
+INSTITUTO                          |N
+INSTITUTO RESSEGURO DO BRASIL IRB  |N
+INSTRUCAO                     ITC  |N
+INSTRUCIONAL                  ITCL |N
+INSTRUIDO                          |N
+INSTRUMENTO                   ITMT |N
+INSTRUMENTO MERCADO CAPITAIS  IMCP |N
+INSTRUTOR                     ITTR |N
+INSUFICIENCIA                 ISF  |N
+INSUMO                        ISMO |N
+INTEGRACAO                    ITE  |N
+INTEGRADO                     ITGR |N
+INTEGRADOR                    ITEO |N
+INTEGRAL                           |N
+INTEGRALIZACAO                ITG  |N
+INTEGRALIZADO                 ITGD |N
+INTEGRAR                      ITER |N
+INTEGRIDADE                   INGD |N
+INTEGRIDADE REFERENCIAL       IREF |N
+INTEIRO                       INT  |N
+INTELIGENCIA COMPETITIVA      INCP |N
+INTENCAO                      ITN  |N
+INTERACAO                     INRO |N
+INTERAGIR                     INGR |N
+INTERBANCARIO                 ITBC |N
+INTERCAMBIO                   ITCB |N
+INTERCAMBIO ELETRONICO DE DADO     |N
+INTERCEDER                         |N
+INTERDAY                      IEDD |N
+INTERDEPARTAMENTAL            ITDP |N
+INTERESSADO                   ITSO |N
+INTERESSE                     ITSE |N
+INTERFACE                     ITCE |N
+INTERFACE GRAFICA AO USUARIO  GUI  |N
+INTERMEDIACAO                 INTM |N
+INTERMEDIADOR                 INTO |N
+INTERMEDIARIO                 INTD |N
+INTERMUNICIPAL                IMUN |N
+INTERNACAO                    ITNC |N
+INTERNACIONAL                 INTL |N
+INTERNET                      INRT |N
+INTERNET PROTOCOL             IP   |N
+INTERNET RELAY CHAT           IRC  |N
+INTERNO                       ITNO |N
+INTERPELACAO                  ITPC |N
+INTERPELAR                    INTR |N
+INTERPESSOAL                  IPSS |N
+INTERPOLACAO                  INRL |N
+INTERPRETADO                  ITPD |N
+INTERROGACAO                       |N
+INTERRUPCAO                   ITP  |N
+INTERURBANO                   IURB |N
+INTERVALO                     ITVL |N
+INTERVENCAO                   ITV  |N
+INTERVENIENTE                 ITVT |N
+INTERVIR                      ITVR |N
+INTITULACAO                   ITL  |N
+INTITULAR                     ITLR |N
+INTRADAY                      IADD |N
+INTRANET                      ITR  |N
+INUTILIZADO                        |N
+INVALIDEZ                     INVZ |N
+INVALIDO                      INVD |N
+INVENTARIACAO                 IVTC |N
+INVENTARIAR                   IVTR |N
+INVENTARIO                    IVT  |N
+INVERSAO                      IVR  |N
+INVESTIDO                     INVT |N
+INVESTIDOR                    INVR |N
+INVESTIGACAO                  IVG  |N
+INVESTIGADO                   IVGD |N
+INVESTIGAR                    IVGR |N
+INVESTIMENTO                  INVS |N
+INVOLUNTARIO                  IVLT |N
+IOF                                |N
+IOR                                |N
+IP                                 |N
+IPTF                          IPTF |N
+IPTU                               |N
+IPVA                               |N
+IRREGULAR                     IRRG |N
+IRREGULARIDADE                IRR  |N
+IRRIGACAO                     IRG  |N
+IRRIGADO                      IRGD |N
+IRRIGAR                       IRGR |N
+ISBN                          ISBN |N
+ISENCAO                       ISN  |N
+ISENTO                        IST  |N
+ISIN                          ISIN |N
+ISO                                |N
+ISPB                               |N
+ISS                                |N
+ITALICO                       ITAL |N
+ITEM                          ITEM |N
+ITERACAO                      ITRA |N
+ITINERARIO                    ITRO |N
+JAM                                |N
+JANEIRO                       JANR |N
+JANELA                        JNL  |N
+JAVA                          JAVA |N
+JOB                           JOB  |N
+JOB CONTROL LANGUAGE          JCL  |N
+JOB HELD                      JOBH |N
+JOB ONSPOOL                   JOBS |N
+JOIA                          JOIA |N
+JORNADA                            |N
+JORNADA DE TRABALHO           JTRB |N
+JORNAL                        JRNL |N
+JUDICIAL                      JDCL |N
+JULGADO                       JGD  |N
+JULGAMENTO                    JGMT |N
+JULHO                         JULH |N
+JUNHO                         JUNH |N
+JUNTA                         JTA  |N
+JUNTO                         JNT  |N
+JURIDICO                      JRD  |N
+JURISDICAO                    JRDC |N
+JURISDICIONADO                JRDD |N
+JURISDICIONANTE               JRDT |N
+JURO                          JUR  |N
+JUROS E ATUALIZACAO MONETARIA JAM  |N
+JUSTICA                       JSTC |N
+JUSTIFICADO                   JTFD |N
+JUSTIFICATIVA                 JST  |N
+JUSTO                         JSTO |N
+KBYTE                              |N
+KIT                           KIT  |N
+LA                            LA   |N
+LABEL                         LABL |N
+LABORATORIO                   LAB  |N
+LACRE                         LACR |N
+LACTANTE                      LACT |N
+LACUSTRE                      LCST |N
+LANCAMENTO                    LCTO |N
+LANCAR                        LNCR |N
+LANCE                         LCE  |N
+LARGO                              |N
+LARGURA                       LRG  |N
+LASTRO                        LSTR |N
+LATENCIA                      LTC  |N
+LATITUDE                      LTD  |N
+LAUDO                         LAUD |N
+LAVAGEM DE DINHEIRO           LDNH |N
+LAVOURA                            |N
+LAYOUT                             |N
+LDAP                               |N
+LDBB                               |N
+LDL                                |N
+LEASING                       LSG  |N
+LEGAL                         LGAL |N
+LEGISLACAO                    LGLC |N
+LEGISLATIVO                   LGLT |N
+LEI                           LEI  |N
+LEIAUTE                       LAUT |N
+LEILAO                        LL   |N
+LEILOEIRO                     LLO  |N
+LEITE                         LTE  |N
+LEITOR                        LETR |N
+LEITURA                       LET  |N
+LESTE                         LE   |N
+LETRA DE CAMBIO               LC   |N
+LETRA DE CREDITO AGRONEGOCIO  LCA  |N
+LETRA DE CREDITO IMOBILIARIO  LCI  |N
+LEVANTAR                           |N
+LIBERACAO                     LIB  |N
+LIBERADO                      LIBD |N
+LIBERAR                       LIBR |N
+LIC                                |N
+LICENCA                       LCC  |N
+LICENCA AMBIENTAL             LCAM |N
+LICITACAO                     LCTC |N
+LIDER                         LDR  |N
+LIDERANCA                     LDRA |N
+LIGACAO                            |N
+LIGACAO TELEFONICA            LTEL |N
+LIGAR                              |N
+LIMINAR                       LMNR |N
+LIMITE                        LIM  |N
+LIMITE DE CREDITO             LMCR |N
+LIMPEZA                       LPZA |N
+LINEAR                        LINR |N
+LINGOTE                       LNG  |N
+LINGUAGEM                     LING |N
+LINHA                         LNH  |S <-- NATUREZA
+LINHA DE CREDITO              LNCD |N
+LINHA DIRETA BANCO DO BRASIL  LDBB |N
+LINK                          LINK |N
+LINKAGE                       LKS  |N
+LIQUIDACAO                    LQDC |N
+LIQUIDACAO MULTILATERAL CAMARALDL  |N
+LIQUIDADO                     LQDD |N
+LIQUIDANTE                    LQDT |N
+LIQUIDAR                      LQDR |N
+LIQUIDEZ                      LQDZ |N
+LIQUIDEZ SECA                 LQSC |N
+LIQUIDO                       LQDO |N
+LISTA                         LS   |S <-- NATUREZA
+LISTAR                        LISR |N
+LITORAL                       LIT  |N
+LITORANEO                     LITN |N
+LIVRE                         LVRE |N
+LIVRO                         LVRO |N
+LIVRO DO MERCADO DE CAPITAIS  LMCP |N
+LIVRO INSTRUCOES CODIFICADAS  LIC  |N
+LIVRO REGISTRO ACAO NOMINATIVALRAN |N
+LOCAL                         LCL  |N
+LOCAL AREA NETWORK            LAN  |N
+LOCAL DATA AREA               ADL  |N
+LOCALIDADE                    LCLD |N
+LOCALIZACAO                   LCZC |N
+LOCALIZADO                    LCZD |N
+LOCALIZADOR PADRAO DE RECURSOS     |N
+LOCALIZAR                     LCZR |N
+LOCATARIO                     LOCT |N
+LOCK                          LOCK |N
+LOG                           LOG  |N
+LOGICO                        LGC  |N
+LOGISTICA                     LGTC |N
+LOGOMARCA                     LGM  |N
+LOGOTIPO                      LGT  |N
+LOGRADOURO                    LGR  |N
+LOJA                          LOJA |N
+LONGITUDE                     LGTE |N
+LONGO                              |N
+LONGO PRAZO                   LGPZ |N
+LOTACAO                       LOT  |N
+LOTAR                         LOTR |N
+LOTE                          LT   |N
+LOTERIA                       LTR  |N
+LPCD                          LPCD |N
+LUBRIFICACAO                  LBR  |N
+LUCRAR                        LCRR |N
+LUCRO                         LCR  |N
+LUGAR                              |N
+LYNX                          LYNX |N
+MAC ADDRESS                   MADR |N
+MACRO                         MAC  |N
+MAE                           MAE  |N
+MAGNETICO                     MAG  |N
+MAINFRAME                     MFR  |N
+MAIO                          MAIO |N
+MAIOR                         MOR  |N
+MALA DIRETA                   MLDT |N
+MALOTE                        MLT  |N
+MANAGEMENT CLASS              MNCL |N
+MANCHETE                      MNCH |N
+MANDADO                       MDO  |N
+MANDANTE                           |N
+MANDATARIO                         |N
+MANDATO                       MNDT |N
+MANEIRA                            |N
+MANIFESTACAO                  MNFC |N
+MANIFESTANTE                  MNFT |N
+MANIFESTAR                    MNFS |N
+MANTENEDOR                    MTDR |N
+MANTER                        MANR |N
+MANTIDO                       MATD |N
+MANUAL                        MNL  |N
+MANUFATURAR                   MNUF |N
+MANUTENCAO                    MNTC |N
+MAO DE OBRA                   MO   |N
+MAPA                          MAPA |N
+MAQUINA                       MQN  |N
+MARCA                         MCA  |N
+MARCO                         MARC |N
+MARGEM                        MRG  |N
+MARGEM CONSIGNAVEL            MCGL |N
+MARGEM DE CONTRIBUICAO        MGCT |N
+MARGEM FINANCEIRA             MGFN |N
+MARINHA                       MARH |N
+MARITIMO                      MRTM |N
+MARK TO MARKET                MTM  |N
+MARKETING                     MKT  |N
+MASCARA                       MCR  |N
+MASCARAMENTO                  MCRT |N
+MASCULINO                     MSCL |N
+MASSA                         MAS  |N
+MASSIFICADO                   MASD |N
+MASSIFICAR                    MASR |N
+MASTER                             |N
+MASTERCARD                    MSTR |N
+MATA                          MATA |N
+MATEMATICA                    MTT  |N
+MATEMATICO                    MTTO |N
+MATERIA                       MTRA |N
+MATERIAL                      MTRL |N
+MATERIALIZED QUERY TABLE      MQT  |N
+MATRICULA                     MTC  |N
+MATRIZ                        MT   |N
+MATURIDADE                    MTU  |N
+MAXBLUE                       MXB  |N
+MAXIMO                        MAX  |N
+MBYTE                              |N
+MECANISMO DE AUTO-LIQUIDEZ    MALQ |N
+MEDIA                         MED  |N
+MEDIA DE SALDOS DIARIOS       MSD  |N
+MEDIANA                       MEDN |N
+MEDICAMENTO                   MDNT |N
+MEDICAO                       MDCO |N
+MEDICINA                      MDN  |N
+MEDICO                        MDIC |N
+MEDIDA                        MDD  |N
+MEDIO                         MEDI |N
+MEDIO PRAZO                   MEPZ |N
+MEDIR                         MDIR |N
+MEGABYTE                      MB   |N
+MEIO                               |N
+MELHOR                        MLHR |N
+MELHORAR                      MLRR |N
+MEMBRO                        MBR  |N
+MEMORIA                       MMR  |N
+MENOR                         MNR  |N
+MENSAGEM                      MSG  |N
+MENSAL                        MSL  |N
+MENSALIDADE                   MSLD |N
+MENSALISTA                    MSLT |N
+MENU                          MENU |N
+MERCADO                       MC   |N
+MERCADO DE CAPITAIS           MCP  |N
+MERCADOLOGICA                 MCLC |N
+MERCADORIA                    MCDR |N
+MERCHANDISING                 MCH  |N
+MERCOSUL                      MRCS |N
+MERECIMENTO                   MRC  |N
+MES                           MM   |S <-- NATUREZA
+MESA DE OPERACAO              MEOP |N
+MESA DIRETORA                 MDRT |N
+MESADA                             |N
+MESORREGIAO                   MESR |N
+MESTICAGEM                    MST  |N
+MESTRADO                      MTRD |N
+META                          META |N
+METADADO                      MTDD |N
+METAL                         MTL  |N
+METAL PRECIOSO                MTLP |N
+METODO                        MTD  |N
+METODOLOGIA                   MTDL |N
+METRICA                       MTRC |N
+METRO                         METR |N
+METRO QUADRADO                MQD  |N
+METROPOLITAN AREA NETWORK     MAN  |N
+METROPOLITANO                 MTRP |N
+MICRO                         MIC  |N
+MICROCOMPUTADOR               MCC  |N
+MICROCREDITO PRODUTIVO ORIENTA     |N
+MICROEMPRESA                  MCIA |N
+MICROFICHA                    MCFC |N
+MICROFILMADO                  MCFD |N
+MICROFILMAGEM                 MCFG |N
+MICROFILMAVEL                 MCFV |N
+MICROFILME                    MCFM |N
+MICROFINANCA                  MFNC |N
+MICRORREGIAO                  MICR |N
+MIDDLE                             |N
+MIDIA                         MID  |N
+MIGRACAO                      MIGR |N
+MIGRACAO DADOS                MIG  |N
+MIGRADO                       MIGD |N
+MIGRAR                        MGAR |N
+MILENIO                       MLN  |N
+MILHA                         MILH |N
+MILHAR                        MILR |N
+MILHO                         MLH  |N
+MILISSEGUNDO                  MSGD |N
+MINIMO                        MIN  |N
+MINISTERIO DA SAUDE           MS   |N
+MINUCIA                            |N
+MINUTA                        MNTA |N
+MINUTO                        MNTO |N
+MIPS                          MIPS |N
+MISSAO                        MSS  |N
+MISTO                         MIST |N
+MITIGADOR                     MTGD |N
+MITIGAR                            |N
+MNEMONICO                     MNMC |N
+MODA                          MODA |N
+MODALIDADE                    MDLD |N
+MODELAR                       MODR |N
+MODELO                        MOD  |N
+MODIFICACAO                        |N
+MODIFICAR                     MDFR |N
+MODO                               |N
+MODULARIZACAO                 MDUZ |N
+MODULO                        MDU  |N
+MOEDA                         MOE  |N
+MOEDA ESTRANGEIRA             MOEE |N
+MOEDA NACIONAL                MOEN |N
+MOMENTO                       MMT  |N
+MONETARIO                     MNTR |N
+MONITOR                       MNT  |N
+MONITORIZACAO                 MTA  |N
+MONITORIZADO                  MTAD |N
+MONITORIZAR                   MTAR |N
+MONTANTE                           |N
+MORA                          MORA |N
+MORAL                         MRL  |N
+MORTALIDADE                   MRTD |N
+MORTE                         MRT  |N
+MOTIVACAO                     MTVC |N
+MOTIVAR                       MTVR |N
+MOTIVO                        MTV  |N
+MOTOCICLETA                   MOT  |N
+MOTOR                         MTO  |N
+MOUNT                         MOUN |N
+MOVEL                         MVL  |N
+MOVIMENTACAO                  MVTC |N
+MOVIMENTADO                   MVTD |N
+MOVIMENTO                     MVT  |N
+MOVIMENTO DE TROCA            MVTR |N
+MPO                           MPO  |N
+MQSERIES                      MQ   |N
+MSD                                |N
+MUDANCA                            |N
+MUDAR                         MUDR |N
+MULTA                         MULT |N
+MULTIPLICADOR                 MTP  |N
+MULTIPLICIDADE                MTPD |N
+MULTIPLO                      MTPL |N
+MUNICIPIO                     MUN  |N
+MURCHACAO                          |N
+MURCHADO                           |N
+MUTUADO                            |N
+MUTUANTE                      MTNT |N
+MUTUARIO                      MTR  |N
+MUTUO                              |N
+NACIONAL                      NAC  |N
+NACIONALIDADE                 NCLD |N
+NAO                           N    |N
+NASCIDO                       NSCD |N
+NASCIMENTO                    NSC  |N
+NATALIDADE                    NATD |N
+NATURAL                       NTRL |N
+NATURALIDADE                  NTLD |N
+NATUREZA                      NTZ  |N
+NAVEGADOR                          |N
+NAVIO                         NVIO |N
+NCM                                |N
+NECESSARIO                    NCSR |N
+NECESSIDADE                   NCDD |N
+NEGATIVO                      NGT  |N
+NEGOCIACAO                    NEGO |N
+NEGOCIADO                     NEGD |N
+NEGOCIADOR                    NEGR |N
+NEGOCIAL                      NEGL |N
+NEGOCIAVEL                    NEGV |N
+NEGOCIO                       NEG  |N
+NEGRITO                       NGRT |N
+NET                           NET  |N
+NETMASK                       NMSK |N
+NETTING                       NETT |N
+NETWORK FILE SYSTEM           NFS  |N
+NETWORK INFORMATION CENTER    NIC  |N
+NETWORK NEWS TRANSFER PROTOCOLNNTP |N
+NETWORK OPERATIONS CENTER     NOC  |N
+NEWCOPY                       NWCP |N
+NICHO DE MERCADO              NHMC |N
+NIVEL                         NVL  |N
+NO DE REDE                    NO   |N
+NOME                          NM   |S <-- NATUREZA
+NOMEACAO                      NMO  |N
+NOMENCLATURA COMUM DO MERCOSULNCM  |N
+NOMINAL                       NMNL |N
+NOMINATIVO                    NMTV |N
+NONO                          NONO |N
+NORMA                              |N
+NORMAL                        NML  |N
+NORMALIDADE                   NMLD |N
+NORMATIVO                     NRMV |N
+NORTE-AMERICANO               NOAM |N
+NOSSO                         NSS  |N
+NOTA                          NOTA |N
+NOTA EXPLICATIVA              NTEX |N
+NOTA FISCAL                   NF   |N
+NOTA PROMISSORIA              NTPR |N
+NOTICIA                       NTCA |N
+NOTIFICACAO                   NTF  |N
+NOTIFICADO                    NTFD |N
+NOTIFICAR                     NOTR |N
+NOTURNO                       NTNO |N
+NOVE                          NOVE |N
+NOVEMBRO                      NOVB |N
+NOVO                          NOVO |N
+NUCLEO                        NCL  |N
+NULO                          NULO |N
+NUMERACAO                     NMRC |N
+NUMERADOR                     NMDR |N
+NUMERARIO                     NMRR |N
+NUMERICO                      NRC  |N
+NUMERO                        NR   |S <-- NATUREZA
+OBEDECER                      OBDR |N
+OBJETIVO                      OBJT |N
+OBJETO                        OBJ  |N
+OBRA                          OBRA |N
+OBRA DE ARTE                  OBAT |N
+OBRIGACAO                     OBGC |N
+OBRIGATORIEDADE               OBGD |N
+OBRIGATORIO                   OBG  |N
+OBSERVACAO                    OBS  |N
+OBSERVADO                     OBSD |N
+OBSTACULO                     OBST |N
+OBTIDO                        OBTD |N
+OCIOSIDADE                    OCID |N
+OCORRENCIA                    OCR  |N
+OCORRIDO                      OCRD |N
+OCULTAR                       OCTR |N
+OCUPACAO                      OCP  |N
+OCUPACIONAL                   OCPN |N
+OCUPADO                       OCPD |N
+OCUPANTE                      OCPT |N
+OCUPAR                        OCPR |N
+OESTE                         OE   |N
+OFERECER                      OFCR |N
+OFERECIDO                          |N
+OFERTA                        OFT  |N
+OFERTADO                      OFTD |N
+OFERTANTE                     OFTT |N
+OFERTAR                       OFTR |N
+OFFLINE                       OFF  |N
+OFICIAL                       OFL  |N
+OFICIO                        OFC  |N
+OITAVO                        OITV |N
+OITO                          OITO |N
+OMBUDSMAN                     OMBD |N
+ONLINE                        ONL  |N
+OPCAO                         OPC  |N
+OPCIONAL                      OPCN |N
+OPEN SYSTEM INTERCONNECTION   OSI  |N
+OPERACAO                      OPR  |N
+OPERACIONAL                   OPRL |N
+OPERADOR                      OPRD |N
+OPERANDO                      OPRN |N
+OPERANTE                      OPRT |N
+OPORTUNIDADE                  OPT  |N
+OPORTUNO                      OPTO |N
+ORCADO                        ORCD |N
+ORCAMENTARIO                  ORCO |N
+ORCAMENTO                     ORC  |N
+ORDEM                         ORD  |N
+ORDEM BANCARIA                OB   |N
+ORDEM DE PAGAMENTO            ORPG |N
+ORDEM DOS ADVOGADOS DO BRASIL OAB  |N
+ORDENADA                      ORDN |N
+ORDENAR                       ODNR |N
+ORDER ID                      ORDD |N
+ORDERID                            |N
+ORGANICO                      OGC  |N
+ORGANIZ INTERNAC NORMALIZACAO ISO  |N
+ORGANIZACAO                   ORGZ |N
+ORGANIZACIONAL                ORGC |N
+ORGANIZADOR                   ORGD |N
+ORGANIZAR                     ORGR |N
+ORGAO                         ORG  |N
+ORIENTACAO                    ORNC |N
+ORIENTADO                     ORTD |N
+ORIENTAR                      ORNR |N
+ORIGEM                        OGM  |N
+ORIGINAL                      OGNL |N
+OURO                          OURO |N
+OURO ESCRITURAL               OURE |N
+OURO FINO                     OURF |N
+OURO VIVO                     OURV |N
+OUTORGADO                          |N
+OUTORGANTE                         |N
+OUTORGAR                           |N
+OUTRO                         OTR  |N
+OUTUBRO                       OUTB |N
+OUVIDORIA                     OUVD |N
+OVERNIGHT                     OVN  |N
+OVERRIDE                      OVRR |N
+OVINOCULTURA                  OVIC |N
+OVO                           OVO  |N
+OWNER                         OWN  |N
+PAA                                |N
+PACKAGE                       PKGE |N
+PACKET INTERNET GROUP         PING |N
+PACOTE                             |N
+PACTO                              |N
+PADDING                       PADD |N
+PADRAO                        PDRO |N
+PADRONIZADO                   PDRZ |N
+PAGADOR                       PGDR |N
+PAGAMENTO                     PGTO |N
+PAGAMENTO ANTECIPADO          PA   |N
+PAGAR                         PGR  |N
+PAGE VIEW                     PGVW |N
+PAGINA                        PAG  |N
+PAGINA WEB                    PAGW |N
+PAGO                          PG   |N
+PAI                           PAI  |N
+PAINEL                        PAIN |N
+PAIS                          PAIS |N
+PALAVRA                       PLVR |N
+PAPEL                         PAPL |N
+PARAGRAFO                     PRGF |N
+PARALISACAO                   PRL  |N
+PARAMETER DATA AREA           ADP  |N
+PARAMETRIZACAO                PRMZ |N
+PARAMETRIZADO                 PRTZ |N
+PARAMETRIZAR                  PRZR |N
+PARAMETRO                     PRM  |N
+PARCEIRO                      PCR  |N
+PARCELA                       PCL  |N
+PARCELADO                     PCLD |N
+PARCELAMENTO                  PCLT |N
+PARCERIA                      PCRA |N
+PARCIAL                       PRCL |N
+PARECER                       PACR |N
+PARENTE                       PRN  |N
+PARENTESCO                    PRNT |N
+PARENTESE                     PRTS |N
+PARIDADE                      PDDE |N
+PARLAMENTAR                   PLMR |N
+PARLAMENTO                    PLM  |N
+PARTE                         PTE  |N
+PARTICAO                      PTC  |N
+PARTICIONADO                  PTCO |N
+PARTICIONAMENTO               PTCM |N
+PARTICIPACAO                  PRTC |N
+PARTICIPANTE                  PCT  |N
+PARTICIPAR                    PTPR |N
+PARTICULAR                    PRTR |N
+PARTICULARIDADE               PRTD |N
+PARTIDA                       PT   |N
+PARTIDO POLITICO              PTPL |N
+PARTILHADO                    PTLD |N
+PARTILHAR                          |N
+PASEP                         PSEP |N
+PASSAGEIRO                    PSGR |N
+PASSAGEM                      PSGM |N
+PASSAPORTE                    PSST |N
+PASSIVO                       PSSV |N
+PASSO                              |N
+PASSWORD                      PSW  |N
+PASTA                         PAS  |N
+PASTAGEM                      PSTM |N
+PASTO                              |N
+PATIO                         PAT  |N
+PATRIMONIAL                   PATL |N
+PATRIMONIO                    PATR |N
+PATRIMONIO LIQUIDO            PL   |N
+PATROCINADO                   PTRN |N
+PATROCINADOR                  PTRD |N
+PATROCINIO                    PTR  |N
+PAUTA                         PTA  |N
+PAUTAR                        PAUT |N
+PAVIMENTO                     PVM  |N
+PAYBACK                       PBK  |N
+PBMS                          PBMS |N
+PDG                                |N
+PECA                          PECA |N
+PECUARIA                      PECR |N
+PECULIO                       PECL |N
+PEDAGIO                       PDGO |N
+PEDESTRE                      PDTR |N
+PEDIDO                             |N
+PEDIDO DE VISTA               PVTA |N
+PEDIR                              |N
+PEDRA                         PRA  |N
+PEDRA PRECIOSA                PRAP |N
+PENA                               |N
+PENAL                         PNL  |N
+PENALIDADE                    PNLD |N
+PENDENCIA                     PNC  |N
+PENDENTE                      PND  |N
+PENEIRA                       PNR  |N
+PENHOR                        PNHO |N
+PENHOR RURAL                  PNHR |N
+PENHORA                       PNH  |N
+PENSAMENTO                    PEN  |N
+PENSAO                        PNS  |N
+PENSAR                        PENR |N
+PENSIONISTA                   PNST |N
+PEQUENO                       PQN  |N
+PER CAPITA                    PCPT |N
+PERCENTUAL                    PC   |S <-- NATUREZA
+PERCURSO                      PECS |N
+PERDA                         PDA  |N
+PERECIVEL                     PRCV |N
+PERENE                             |N
+PERFIL                        PRFL |N
+PERFORMANCE                        |N
+PERGUNTA                           |N
+PERICULOSIDADE                PLDD |N
+PERIMETRO                     PRMT |N
+PERIODICIDADE                 PERC |N
+PERIODICO                     PERD |N
+PERIODO                       PER  |N
+PERITO                        PRTO |N
+PERMANENCIA                   PMC  |N
+PERMANENTE                         |N
+PERMISSAO                     PMS  |N
+PERMITIDO                     PMT  |N
+PERMUTA                            |N
+PERNOITAR                     PNOR |N
+PERNOITE                      PNO  |N
+PERSONALIZACAO                PSZ  |N
+PERSONALIZADO                 PSZD |N
+PERSPECTIVA                   PRSP |N
+PERTINENCIA                   PTN  |N
+PERTINENTE                    PTNE |N
+PESA                          PESA |N
+PESO                          PESO |N
+PESQUISA                      PSQ  |N
+PESQUISA DE OPINIAO                |N
+PESQUISADO                    PSQD |N
+PESQUISADOR                   PSQR |N
+PESQUISAR                     PSSR |N
+PESSOA                        PSS  |N
+PESSOA FISICA                 PF   |N
+PESSOA JURIDICA               PJ   |N
+PESSOA POLITICAMENTE EXPOSTA  PPE  |N
+PESSOAL                       PSSL |N
+PGPM                               |N
+PH                            PH   |N
+PHA                           PHA  |N
+PHYSICAL UNIT                 PHU  |N
+PIB                                |N
+PICADA                        PIC  |N
+PILAR                              |N
+PILOTO                        PLOT |N
+PINTURA                       PIN  |N
+PIONEIRO                      PION |N
+PIOR                          PIOR |N
+PIS                                |N
+PISCICULTURA                  PSIC |N
+PISO                          PISO |N
+PISTA                         PSTA |N
+PLACA                         PLC  |N
+PLACAR                        PLCR |N
+PLANEJADO                     PLND |N
+PLANEJAMENTO                  PLNJ |N
+PLANILHA                      PLNL |N
+PLANO                         PLN  |N
+PLANO DE ACESSO               PLAN |N
+PLANO DE APOSENTADORIA        PLAP |N
+PLANO DE CAPITALIZACAO        PCAP |N
+PLANO DE SAUDE                PLSD |N
+PLANO DIRETOR                 PLDR |N
+PLANO GERAL DE CONTAS         PGC  |N
+PLANO INFORM FIN TRIMESTRAIS  IFT  |N
+PLANO ODONTOLOGICO            PLOD |N
+PLANTA BAIXA                  PBXA |N
+PLANTACAO                     PLTC |N
+PLANTADO                      PLTD |N
+PLANTAO                       PLNT |N
+PLANTIO                       PLTO |N
+PLASTICO                      PLST |N
+PLATAFORMA DE HARDWARE        PLHW |N
+PLATAFORMA DE SOFTWARE        PLSW |N
+PLURAL                        PLR  |N
+PLURIANUAL                    PAAL |N
+PMCMV                         MCMV |N
+PODER                         PODR |N
+POINT TO POINT PROTOCOL       PPP  |N
+POLEGADA                      POL  |N
+POLICIA                       PLCA |N
+POLICIAL                      PLCL |N
+POLIGONO                      PLGN |S <-- NATUREZA
+POLITICA GARANT PRECOS MINIMOSPGPM |N
+POLITICO                      POLI |N
+POLO                          POLO |N
+PONDERACAO                    PDR  |N
+PONDERADO                     PDRD |N
+PONTA                         PNT  |N
+PONTA "A"                     PNTA |N
+PONTA "B"                     PNTB |N
+PONTE                         PNTE |N
+PONTO                         PTO  |S <-- NATUREZA
+PONTO DE ATENDIMENTO          PTAT |N
+PONTO DE PRESENCA             PP   |N
+PONTO DE VENDA                PDV  |N
+PONTUACAO                     PTAC |N
+PONTUALIDADE                  PTDD |N
+POOL                          POOL |N
+POPULACAO                     POP  |N
+PORTA                         PRTA |N
+PORTA-CARTAZ                  PTCZ |N
+PORTA-FOLDER                  PTFD |N
+PORTABILIDADE                 PRTB |N
+PORTADOR                      PORT |N
+PORTAL                             |N
+PORTE                         PRTE |N
+PORTFOLIO                     PRTF |N
+PORTUARIO                     PTRO |N
+POS                           POS  |N
+POSFIXADO                     POFX |N
+POSICAO                       PSC  |N
+POSICIONAL                    PSCL |N
+POSICIONAMENTO                PSCT |N
+POSICIONAR                    PSCR |N
+POSITIVO                      PST  |N
+POSSE                         PSSE |N
+POSSIVEL                      POV  |N
+POSTADO                            |N
+POSTAGEM                      PSTG |N
+POSTAL                        PSTL |N
+POSTERIOR                     PTRR |N
+POSTO                         PSTO |N
+POSTO AVANCADO DE ATENDIMENTO PAA  |N
+POSTO DE ATENDIMENTO BANCARIO PAB  |N
+POSTO DE VIGILANCIA           PSVG |N
+POSTURA                            |N
+POTENCIA                      PTCA |N
+POTENCIAL                     PTNL |N
+POUPANCA                      POUP |N
+POUSO                         PSO  |N
+PRACA                         PRCA |N
+PRATICA                            |N
+PRAZO                         PZ   |N
+PRE                           PRE  |N
+PRE-REQUISITO                 PRQT |N
+PRECATORIO                    PCTR |N
+PRECEDENTE                         |N
+PRECIFICACAO                  PREF |N
+PRECISAO                      PRCS |N
+PRECISO                       PRCO |N
+PRECO                         PREC |N
+PRECO DE PAUTA                PPT  |N
+PRECO UNICO DE FACE           PUF  |N
+PRECO UNITARIO                PU   |N
+PRECURSOR                          |N
+PREDECESSOR                   PDCS |N
+PREDILECAO                         |N
+PREDILETO                          |N
+PREDIO                        PED  |N
+PREDOMINANCIA                 PRDA |N
+PREDOMINANTE                  PRDT |N
+PREENCHER                     PEER |N
+PREENCHIDO                    PEED |N
+PREENCHIMENTO                 PEE  |N
+PREFERENCIA                   PFR  |N
+PREFERENCIAL                  PFRL |N
+PREFERIDO                     PFRD |N
+PREFERIR                      PFRR |N
+PREFIXADO                     PRFX |N
+PREFIXO                       PRF  |N
+PREGAO                        PREG |N
+PREJUIZO                      PRJZ |N
+PREMIADO                      PRMD |N
+PREMIO                        PREM |N
+PREMISSA                      PMIS |N
+PREPOSICAO                    PRP  |N
+PRESCRICAO                    PRSC |N
+PRESENCA                      PRS  |N
+PRESENCIAL                    PRSL |N
+PRESENTE                           |N
+PRESERVAR                     PRSV |N
+PRESIDENCIA                   PRSA |N
+PRESIDENTE                    PRSD |N
+PRESTACAO                     PSTC |N
+PRESTACAO DE CONTA            PTCC |N
+PRESTADOR                     PSTD |N
+PRESTADOR DE SERVICO          PSRV |N
+PRETENDIDO                    PTDO |N
+PRETERIDO                     PRET |N
+PRETTY GOOD PRIVACY           PGP  |N
+PREVENCAO                     PVN  |N
+PREVENTIVO                    PVNT |N
+PREVER                        PEVR |N
+PREVI                         PRVI |N
+PREVIA                        PREV |N
+PREVIDENCIA                   PRVA |N
+PREVIDENCIARIO                PRVO |N
+PREVIO                             |N
+PREVISAO                      PRV  |N
+PREVISTO                      PRVT |N
+PRIMARIO                      PRMR |N
+PRIMARY KEY                   PK   |N
+PRIMEIRO                      PRMO |N
+PRIMITIVO                     PTV  |N
+PRINCIPAL                     PPL  |N
+PRINCIPIO                          |N
+PRIORIDADE                    PRIO |N
+PRIORITARIO                   PRIT |N
+PRIORIZACAO                   PRI  |N
+PRIORIZAR                     PRIR |N
+PRIVADO                            |N
+PRIVATE                       PVTE |N
+PRIVATIVIDADE                 PVTD |N
+PRIVATIVO                     PVT  |N
+PRO INDIVISO                  PIDV |N
+PROAGRO                       PRGR |N
+PROBABILIDADE                 PRBB |N
+PROBLEMA                      PBM  |N
+PROCEDENTE                    PCNT |N
+PROCEDER                      PCER |N
+PROCEDIMENTO                  PCE  |N
+PROCEDURE                     PCD  |N
+PROCESSADO                    PRCD |N
+PROCESSADOR                   PRCR |N
+PROCESSAMENTO                 PRCT |N
+PROCESSAR                     PRSR |N
+PROCESSO                      PRC  |N
+PROCURACAO                    PCU  |N
+PROCURADOR                    PCUD |N
+PROCURAR                      PROR |N
+PRODUCAO                      PRDC |N
+PRODUCT OFFER TABLE           POT  |N
+PRODUTIVIDADE                 PRDD |N
+PRODUTO                       PRD  |N
+PRODUTO DO MERCADO DE CAPITAISPMCP |N
+PRODUTO INTERNO BRUTO         PIB  |N
+PRODUTOR                      PRDR |N
+PRODUTORIO                    PDT  |N
+PRODUZIDO                     PRDZ |N
+PRODUZIR                      PDZR |N
+PROFISSAO                     PFS  |N
+PROFISSIONAL                  PFSL |N
+PROG EXCELENCIA ATENDIMENTO   PEA  |N
+PROGENITOR                         |N
+PROGRAMA                      PGM  |N
+PROGRAMA COMPUTADOR POR ALUNO      |N
+PROGRAMA DE DISPENDIO GLOBAL  PDG  |N
+PROGRAMA DE INTEGRACAO SOCIAL PIS  |N
+PROGRAMA MINHA CASA MINHA VIDA     |N
+PROGRAMACAO                   PGMC |N
+PROGRAMADO                    PGMD |N
+PROGRAMADOR                   PGMR |N
+PROGRAMAR                     PGRR |N
+PROGRAMATICO                  PGMO |N
+PROGRAMOTECA                  PGMT |N
+PROGRESSIVO                   PGRS |N
+PROIBICAO                          |N
+PROJECAO                      PRJ  |N
+PROJETADO                     PJTD |N
+PROJETAR                      PJTR |N
+PROJETO                       PROJ |N
+PROJETOR                      PRJR |N
+PROMESSA                      PRMS |N
+PROMOCAO                      PMCO |N
+PROMOCIONAL                   PMCL |N
+PRONAF                        PNF  |N
+PRONOME DE TRATAMENTO         PNMT |N
+PRONTO                        PRON |N
+PRONUNCIAMENTO                PNN  |N
+PROPAGACAO                    PPG  |N
+PROPAGADO                     PPGD |N
+PROPAGAR                      PPGR |N
+PROPENSAO                          |N
+PROPONENTE                    PRPN |N
+PROPORCAO                     PPC  |N
+PROPORCIONAL                  PPCL |N
+PROPOSTA                      PRPT |N
+PROPOSTO                      PPTO |N
+PROPRIEDADE                   PROP |N
+PROPRIETARIO                  PRT  |N
+PROPRIO                       PRPP |N
+PRORROGACAO                   PRGC |N
+PRORROGAR                     PRRG |N
+PRORROGAVEL                   PRGV |N
+PROSPECCAO                    PRPC |N
+PROTECAO                      PTEC |N
+PROTEGER                      PRTG |N
+PROTEGIDO                     PTGD |N
+PROTESTAR                     PROT |N
+PROTESTO                      PTT  |N
+PROTOCOLO                     PTL  |N
+PROTOCOLO DE ACESSO DIRETORIO LDAP |N
+PROUCA                        PRUC |N
+PROVA                         PROV |N
+PROVAVEL                      PVVL |N
+PROVEDOR                           |N
+PROVEDOR ACESSO INTERNET      ISP  |N
+PROVEITO                           |N
+PROVER                        POVR |N
+PROVIDENCIA                   PVDC |N
+PROVIDENCIADO                 PVDD |N
+PROVIDENCIAR                  PVD  |N
+PROVISAO                      PVS  |N
+PROVISOR                      PVSR |N
+PROVISORIO                    PRVR |N
+PROXIMO                       PRX  |N
+PRUDENCIAL                    PRDL |N
+PU                                 |N
+PUBLICACAO                    PBC  |N
+PUBLICADO                     PBCD |N
+PUBLICADOR                    PUBL |N
+PUBLICAR                           |N
+PUBLICO                       PBCO |N
+PULO                               |N
+PUREZA                        PUR  |N
+PURO                          PURO |N
+QUADRA                        QDRA |N
+QUADRIENIO                    QDNO |N
+QUADRIMESTRE                  QDIM |N
+QUADRISSEMANA                 QDSM |N
+QUADRO                        QDR  |N
+QUADRO DE AVISOS              QAV  |N
+QUADRO-DE-PESSOAL             QPSS |N
+QUALIDADE                     QLDD |N
+QUALIFICACAO                  QLC  |N
+QUALIFICADO                   QLCD |N
+QUALIFICADOR                  QLF  |N
+QUALITATIVO                   QLT  |N
+QUANTIDADE                    QT   |S <-- NATUREZA
+QUANTIFICAR                   QTFC |N
+QUANTITATIVO                  QTT  |N
+QUARTO                        QRTO |N
+QUATRO                        QTR  |N
+QUEBRA                        QBRA |N
+QUESITO                       QSTO |N
+QUESTAO                       QST  |N
+QUESTIONARIO                  QSTN |N
+QUILOBYTE                     KB   |N
+QUILOGRAMA                    KG   |N
+QUILOMETRO                    KM   |N
+QUIMICO                       QMCO |N
+QUINHAO                            |N
+QUINQUENIO                    QQNO |N
+QUINTO                        QNTO |N
+QUINZENA                      QZNA |N
+QUITADO                            |N
+QUORUM                        QRUM |N
+RACA                          RACA |N
+RACF                               |N
+RADAR                         RDAR |N
+RADICAL                       RADC |N
+RADIO                              |N
+RADIODIFUSAO                  RDDF |N
+RAIS                          RAIS |N
+RAMAL                         RMAL |N
+RAMO                          RAMO |N
+RAMO DE ATIVIDADE             RMAT |N
+RANKING                            |N
+RARO                          RARO |N
+RASTREAMENTO                  RTRM |N
+RATEADO                       RATD |N
+RATEAR                        RATR |N
+RATEIO                        RAT  |N
+RATIFICACAO                        |N
+RATIFICADO                         |N
+RATIFICADOR                        |N
+RATIFICAR                          |N
+RAZAO SOCIAL                  RZSC |N
+RCA                                |N
+RDME                               |N
+REABEND                       RABN |N
+REABERTO                      RBTO |N
+REABERTURA                    RBT  |N
+REABILITACAO                  RHBL |N
+REABILITAR                    RBLR |N
+REABRIR                       RBRR |N
+REAJUSTADO                    RAJD |N
+REAJUSTAR                     RAJR |N
+REAJUSTE                      RAJT |N
+REAL                          REAL |N
+REALCE                             |N
+REALIZACAO                    RLZC |N
+REALIZADO                     RLZD |N
+REANALISE                     RANL |N
+REAPLICACAO                   RAPL |N
+REAPLICAR                     RPLC |N
+REAPRESENTACAO                RAPS |N
+REATIVACAO                    RTVC |N
+REATIVAR                      RTVR |N
+REAVALIACAO                   RAVL |N
+REBANHO                       RBNH |N
+REBATE                        RBTE |N
+RECADASTRAMENTO               RCT  |N
+RECADASTRAR                   RCTR |N
+RECALCULAR                    RCLR |N
+RECALCULO                     RCLC |N
+RECEBEDOR                     RCBD |N
+RECEBER                       RCBR |N
+RECEBIDO                      REC  |N
+RECEBIMENTO                   RCBT |N
+RECEBIVEL                     RCBL |N
+RECEITA                       RC   |N
+RECEITA FEDERAL                    |N
+RECEITA OPERACIONAL BRUTA     ROB  |N
+RECEITA OPERACIONAL LIQUIDA   ROL  |N
+RECEPCAO                      RECP |N
+RECEPTIVIDADE                 RCE  |N
+RECESSO                            |N
+RECIBO                        RCB  |N
+RECICLAGEM                    RCLG |N
+RECIFE                        RCF  |N
+RECIPIENTE                         |N
+RECIPROCIDADE                 RCDD |N
+RECIPROCO                     RCPC |N
+RECLAMADO                     RCLD |N
+RECLAMANTE                    RCLT |N
+RECLASSIFICACAO               RCL  |N
+RECOBRADO                          |N
+RECOLHER                      RLHR |N
+RECOLHIDO                     RLHD |N
+RECOLHIMENTO                  RLHT |N
+RECOMENDACAO                  RCM  |N
+RECOMENDAVEL                  RCML |N
+RECOMPENSA                         |N
+RECOMPOR                      RPMR |N
+RECOMPOSICAO                  RCMP |N
+RECOMPOSTO                    RCMT |N
+RECOMPRA                      RCPR |N
+RECONCILIACAO                      |N
+RECONHECIDO                   RCND |N
+RECOR                         RCR  |N
+RECORRENTE                    RCRT |N
+RECRUTAMENTO                  RRT  |N
+RECRUTAR                      RRTR |N
+RECUPERACAO                   RCPO |N
+RECUPERADO                    RCPD |N
+RECUPERAR                     RPRR |N
+RECURSO                       RCS  |N
+RECURSO HUMANO                RCSH |N
+RECURSO MATERIAL              RCSM |N
+RECUSA                        RSA  |N
+RECUSADO                           |N
+RED CLAUSE                    REDC |N
+REDE                          REDE |N
+REDESCONTO                    RDSC |N
+REDIGITADO                    RDGT |N
+REDUCAO                       RED  |N
+REDUTOR                       REDT |N
+REDUZIDO                      RDZ  |N
+REDUZIR                       REDR |N
+REELEICAO                     RLEC |N
+REEMBOLSADO                   RBSD |N
+REEMBOLSADOR                  RBSR |N
+REEMBOLSAR                    RBSA |N
+REEMBOLSO                     RBS  |N
+REEMISSAO                     REEM |N
+REENQUADRAMENTO               RENQ |N
+REENVIO                       RVO  |N
+REESCALONADO                  RSCD |N
+REESCALONAMENTO               RSCT |N
+REESCALONAR                   RSCR |N
+REESTRUTURACAO                RETC |N
+REFAZIMENTO                   RFZ  |N
+REFERENCIA                    REF  |N
+REFERENTE                     REFT |N
+REFINANCIADO                  RFCD |N
+REFINANCIAMENTO               RFNT |N
+REFINANCIAMENTO DIVIDA PUBLICARDP  |N
+REFINANCIAR                   RFCR |N
+REFORMA                       RFM  |N
+REFORMAR                      RFMR |N
+REFRIGERACAO                  RFRG |N
+REFUND REFERRAL NUMBER             |N
+REFUTACAO                          |N
+REFUTADO                           |N
+REFUTAR                            |N
+REGIAO                        RGAO |N
+REGIAO POLITICA               RGPL |N
+REGIME                        RGM  |N
+REGIME DE MELHORES ESFORCOS   RME  |N
+REGIME GARANTIA FIRME         RGF  |N
+REGIMENTO                          |N
+REGIONAL                      RGNL |N
+REGISTRADO                    REGD |N
+REGISTRAR                     REGR |N
+REGISTRO                      REG  |N
+REGISTRO NACIONAL ESTRANGEIROS     |N
+REGRA                         RGR  |N
+REGRESSIVO                         |N
+REGRESSO                           |N
+REGUA                         RGUA |N
+REGULAMENTAR                  RGLT |N
+REGULAMENTO                   RGL  |N
+REGULARIZACAO                 RGLC |N
+REGULARIZADO                  RGLD |N
+REGULARIZADOR                 RGLR |N
+REGULARIZAR                   RGLZ |N
+REINCIDENCIA                  RICD |N
+REINICIO                      RINC |N
+REINTEGRACAO                  RIT  |N
+REINTEGRADO                   RITG |N
+REITERACAO                    REIC |N
+REITERADO                     REID |N
+REITERAR                      REIT |N
+REJEICAO                      RJC  |N
+REJEITADO                     RJTD |N
+RELACAO ANUAL INF SOCIAIS          |N
+RELACAO DISCRIMINADA DE MAQ EQRDME |N
+RELACIONADO                   RLCD |N
+RELACIONAMENTO                RLC  |N
+RELACIONAR                         |N
+RELATOR                       RLTR |N
+RELATORIO                     REL  |N
+RELEVANCIA                         |N
+RELEVANTE                          |N
+REMEDIO                            |N
+REMESSA                       RMS  |N
+REMETENTE                     RMTE |N
+REMETIDO                           |N
+REMOCAO                       RMCO |N
+REMOTO                        RMT  |N
+REMUNERACAO                   RMNC |N
+RENAVAM                       RNVM |N
+RENDA                         REN  |N
+RENDA FIXA                    RFIX |N
+RENDIMENTO                    REND |N
+RENEGOCIACAO                  RNEG |N
+RENEGOCIADO                   RNED |N
+RENEGOCIADOR                  RNGR |N
+RENEGOCIAR                    RNGC |N
+RENOVACAO                     RNVC |N
+RENOVADO                      RNVD |N
+RENTABILIDADE                 RNTB |N
+RENTAVEL                      RNTL |N
+RENUNCIA                           |N
+REPACTUACAO                   RPAC |N
+REPARTIR                           |N
+REPASSADO                     RPSD |N
+REPASSAR                      RPSR |N
+REPASSE                       RPSS |N
+REPETICAO                          |N
+REPLICACAO                    REPL |N
+REPLICADO                     REPD |N
+REPORTAGEM                    RPTG |N
+REPOSICAO                     RPC  |N
+REPOSITORIO                   RPT  |N
+REPOUSO                            |N
+REPRESENTACAO                      |N
+REPRESENTADO                       |N
+REPRESENTANTE                 RPRT |N
+REPRESENTAR                        |N
+REPRESENTATIVIDADE            RPTD |N
+REPROCESSAMENTO               RPRC |N
+REPRODUCAO                         |N
+REPRODUZIDO                        |N
+REQUISICAO                    RQSC |N
+REQUISITADO                   RQSD |N
+REQUISITANTE                  RQST |N
+REQUISITAR                         |N
+REQUISITO                     RQSO |N
+RESCISAO                      RSC  |N
+RESERVA                       RSV  |N
+RESERVADO                     RSVD |N
+RESGATADO                     RSGD |N
+RESGATADOR                    RSGR |N
+RESGATAR                      RSTR |N
+RESGATAVEL                    RSGL |N
+RESGATE                       RSGT |N
+RESIDENCIA                    RSDC |N
+RESIDENCIAL                   RES  |N
+RESIDENTE                     RSDT |N
+RESIDUAL                      RDUL |N
+RESIDUO                       RDUO |N
+RESOLUCAO                     RSLC |N
+RESOLVIDO                          |N
+RESOURCE ACCESS CTRL FACILITY RACF |N
+RESOURCE PROGRAM FACILIT      RPF  |N
+RESPONDER                     RPNR |N
+RESPONDIDO                    RPND |N
+RESPONSABILIDADE              RSPB |N
+RESPONSAVEL                   RSP  |N
+RESPOSTA                      RPST |N
+RESSARCIDO                         |N
+RESSARCIMENTO                 RSSC |N
+RESSARCIR                          |N
+RESTABELECIMENTO              RTB  |N
+RESTART                            |N
+RESTAURANTE                   RTRT |N
+RESTITUICAO                   REST |N
+RESTITUIDO                         |N
+RESTITUIDOR                   RTDR |N
+RESTITUIR                          |N
+RESTO                              |N
+RESTRICAO                     RST  |N
+RESTRITO                      RSTT |N
+RESULTADO                     RSTD |N
+RESULTANTE                         |N
+RESUMIDO                      RSMD |N
+RESUMO                        RSM  |N
+RETENCAO                      RTC  |N
+RETERCEIRIZADO                RTCR |N
+RETIDO                        RTDO |N
+RETIFICACAO                        |N
+RETIFICADO                         |N
+RETIFICADOR                        |N
+RETIRADA                      RTDA |N
+RETIRADO                           |N
+RETIRAR                            |N
+RETORNADO                     RTND |N
+RETORNO                       RTN  |N
+RETORNO CONTABIL INVESTIMENTO ROI  |N
+RETRANSMISSOR                 RTMS |N
+RETROATIVO                    RTTV |N
+REU                           REU  |N
+REUNIAO                       RNO  |N
+REUNIAO CONSELHO ADMINISTRACAORCA  |N
+REUTILIZACAO                  RUT  |N
+REUTILIZADO                   RUTZ |N
+REVALIDACAO                   RVLD |N
+REVERSAO                      RVSA |N
+REVERSIBILIDADE               RVSD |N
+REVERSO                            |N
+REVISAO                       RVS  |N
+REVOGADO                           |N
+RISCO                         RSCO |N
+RISCO BASILEIA                RSCB |N
+RNE                           RNE  |N
+ROBO                          ROBO |N
+RODOFERROVIARIO               RDFR |N
+RODOVIA                       RDV  |N
+RODOVIARIO                    RODO |N
+ROI                                |N
+ROLAGEM                       RLG  |N
+ROTA                          ROTA |N
+ROTATIVIDADE                  RTVD |N
+ROTATIVO                      RTV  |N
+ROTEADOR                      ROT  |N
+ROTEAMENTO                    ROTM |N
+ROTEIRO                       RTR  |N
+ROTINA                        RTIN |N
+ROTULO                        RTL  |N
+ROUBADO                       RUBD |N
+ROUBO                         RUB  |N
+ROUTE-VSAT                    RVST |N
+ROW ID                             |N
+ROWID                         RI   |S <-- NATUREZA
+RRN                           RRN  |N
+RUA                           RUA  |N
+RUBRICA                       RBC  |N
+RURAL                         RRL  |N
+SABADO                        SBD  |N
+SABOR                         SAB  |N
+SACADO                        SAC  |N
+SACADOR                       SACR |N
+SACAVEL                       SACV |N
+SAFRA                         SFR  |N
+SAIDA                         SAID |N
+SALA                          SALA |N
+SALA DE AUTO-ATENDIMENTO           |N
+SALA DE AUTOATENDIMENTO       SAA  |N
+SALARIO                       SLR  |N
+SALARIO-MATERNIDADE           SLRM |N
+SALDO                         SDO  |N
+SALTO                         SLT  |N
+SALVADOS                      SAVD |N
+SALVAR                        SAVR |N
+SALVO                         SAV  |N
+SANCIONAR                          |N
+SANGUE                        SGE  |N
+SANGUINEO                          |N
+SAQUE                         SAQ  |N
+SATISFACAO                    SATC |N
+SAUDE                         SAD  |N
+SAZONAL                       SZNL |N
+SDD                                |N
+SEBRAE                        SBRE |N
+SECA                          SC   |N
+SECAGEM                       SCG  |N
+SECAO                         SCAO |N
+SECRETARIA                    SCR  |N
+SECRETARIA DA RECEITA FEDERAL SRF  |N
+SECRETARIA DO TESOURO NACIONALSTN  |N
+SECRETARIA ESTADUAL DA FAZENDASFAZ |N
+SECRETARIO                    SCRO |N
+SECUNDARIO                    SCDR |N
+SECURITIZACAO                 STZC |N
+SECURITIZAVEL                 STZL |N
+SEDE                          SEDE |N
+SEGMENTACAO                        |N
+SEGMENTADO                    SGMD |N
+SEGMENTO                      SGM  |N
+SEGREGACAO                    SGGC |N
+SEGREGADO                     SGGD |N
+SEGUINTE                           |N
+SEGUNDO                       SGDO |N
+SEGURADO                      SGRD |N
+SEGURADORA                    SGRA |N
+SEGURANCA                     SGCA |N
+SEGURAR                       SGRR |N
+SEGURAVEL                     SGRV |N
+SEGURIDADE                    SGDD |N
+SEGURO                        SGRO |N
+SEIS                          SEIS |N
+SELECAO                       SEL  |N
+SELECIONADO                   SELD |N
+SELECIONAR                    SELR |N
+SELETIVO                      SELV |N
+SELIC                         SLIC |N
+SEM                           SEM  |N
+SEMANA                        SMN  |N
+SEMANAL                       SMNL |N
+SEMENTE                       SEMT |N
+SEMESTRE                      SMT  |N
+SEMOVENTE                          |N
+SENHA                         SNH  |N
+SENTENCA                      SNTN |N
+SEPARADO                      SPRO |N
+SEPARAR                       SPR  |N
+SEQUENCIA                     SEQ  |N
+SEQUENCIAL                    SEQL |N
+SERASA                        SRS  |N
+SERIE                         SRE  |N
+SERPRO                        SERP |N
+SERV CENTRAL PROTECAO CREDITO SPC  |N
+SERVICO                       SRVC |N
+SERVICO FINANCEIRO            SFIN |N
+SERVIDOR                      SVDR |N
+SESSAO                        SSS  |N
+SESSAO DE CONEXAO             SSCX |N
+SETE                          SETE |N
+SETEMBRO                      SETB |N
+SETEX                              |N
+SETIMO                        STMO |N
+SETOR                         STR  |N
+SEU                           SEU  |N
+SEVERIDADE                    SVDD |N
+SEVERO                        SVO  |N
+SEXO                          SEXO |N
+SEXTO                         SXTO |N
+SGBD                          SGBD |N
+SHA                           SHA  |N
+SIAFI                              |N
+SIGILO                        SGL  |N
+SIGLA                         SG   |S <-- NATUREZA
+SIGNATARIO                    SGNT |N
+SIGNIFICADO                        |N
+SILABICO                      SLBO |N
+SILO                          SLO  |N
+SIMBOLO                       SB   |S <-- NATUREZA
+SIMETRICO                     SMTC |N
+SIMILAR                       SMLR |N
+SIMILARIDADE                  SML  |N
+SIMPLE MAIL TRANSFER PROTOCOL SMTP |N
+SIMPLE NETWORK MANAGEMENT PROTSNMP |N
+SIMPLES                       SMP  |N
+SIMPLIFICADO                  SPFD |N
+SIMULACAO                     SMLC |N
+SIMULADOR                     SMLD |N
+SIMULAR                       SILR |N
+SIMULTANEO                    SMTO |N
+SINAL                         SNL  |N
+SINALIZACAO                   SNLC |N
+SINCRONIZACAO                 SNCZ |N
+SINDICATO                     SND  |N
+SINGULAR                      SNG  |N
+SINISTRO                      SNTR |N
+SINONIMO                      SNN  |N
+SINOPSE                       SNP  |N
+SINTESE                       SNT  |N
+SINTETICO                     SNTT |N
+SINTETIZACAO                  SNTZ |N
+SIS PBCO ESCRITURACAO DIGITAL SPED |N
+SISBB                         SSBB |N
+SISTEMA                       SIS  |N
+SISTEMA FINANCEIRO NACIONAL   SFN  |N
+SISTEMA INTEGRADO ADM FIN GOV SIAF |N
+SISTEMA OPERACIONAL           SO   |N
+SISTEMA PAGAMENTO BRASILEIRO  SPB  |N
+SISTEMA TRANSFERENCIA RESERVA STRS |N
+SITE                          SITE |N
+SITUACAO                           |N
+SMALL                              |N
+SMILES                        SMIL |N
+SMS                                |N
+SOBRA                         SBR  |N
+SOBRENOME                     SNM  |N
+SOBREPOSICAO                  SBPS |N
+SOCIAL                        SCL  |N
+SOCIEDADE                     SCDD |N
+SOCIETARIO                    SCT  |N
+SOCIO                         SCO  |N
+SOFTWARE                      SW   |N
+SOLICITACAO                   SLCT |N
+SOLICITADO                    SLCD |N
+SOLICITANTE                   SLTT |N
+SOLICITAR                     SLCR |N
+SOLIDARIO                     SLDR |N
+SOLO                          SOLO |N
+SOLUCAO                       SLC  |N
+SOLUCIONADO                   SLCO |N
+SOLVENCIA                     SLVA |N
+SOLVENTE                      SLV  |N
+SOM                           SM   |S <-- NATUREZA
+SOMA                               |N
+SOMA DE DEBITOS DIARIOS       SDD  |N
+SOMAR                              |N
+SOMATORIO                     SMAT |N
+SORTEIO                       SRT  |N
+SPAM                          SPAM |N
+SPB                                |N
+SPED                               |N
+SPOT                          SPOT |N
+SPREAD                        SPRD |N
+SQL                           SQL  |N
+SQL CODE                      SQLC |N
+SRF                                |N
+STANDARD GENERAL MARKUP LANGUASGML |N
+STATEMENT                          |N
+STATUS                             |N
+STEP                          STEP |N
+STOP-WORD                     STWD |N
+STORAGE CLASS                 STCL |N
+STORAGE GROUP                 STGP |N
+STORAGE MANAGER SYSTEM        SMS  |N
+STR                                |N
+STRUCTURED QUERY LANGUAGE          |N
+SUB                           SUB  |N
+SUB HISTORICO                 SHST |N
+SUB-ROTINA                    SRTN |N
+SUBALTERNO                         |N
+SUBARRENDAMENTO               SAR  |N
+SUBARRENDAR                   SARR |N
+SUBCENTRAL                    SBCT |N
+SUBCLASSE                     SCLS |N
+SUBCONTRATO                   SCTR |N
+SUBDIVISAO                    SDVS |N
+SUBESPACO                     SESP |N
+SUBGRUPO                      SGR  |N
+SUBITEM                       SITM |N
+SUBJETIVO                     SBJT |N
+SUBLIMITE                     SLIM |N
+SUBLINHADO                    SBL  |N
+SUBLIVRO MERCADO DE CAPITAIS  SMCP |N
+SUBMETER                      SBMR |N
+SUBMETIDO                     SBDO |N
+SUBNET                        SNET |N
+SUBNIVEL                      SNVL |N
+SUBOBJETO                     SOBJ |N
+SUBOPCAO                      SOPC |N
+SUBORDINACAO                  SBDC |N
+SUBORDINADO                   SBDD |N
+SUBORDINADOR                  SBDR |N
+SUBPRODUTO                    SPDT |N
+SUBPROGRAMA                   SPGM |N
+SUBSCREVER                    SBSV |N
+SUBSCRICAO                    SBSC |N
+SUBSCRITO                     SBST |N
+SUBSETOR                      SSTR |N
+SUBSIDIARIA                   SBSA |N
+SUBSIDIO                      SBS  |N
+SUBSISTEMA                    SSIS |N
+SUBSTABELECIDO                SBTO |N
+SUBSTITUICAO                  SBTC |N
+SUBSTITUIDO                   SBTD |N
+SUBSTITUIR                    SBT  |N
+SUBSTITUTO                    SBTT |N
+SUBTIPO                       STIP |N
+SUBTITULO                     STIT |N
+SUBTITULO DA RUBRICA CONTABIL STRC |N
+SUBTRACAO                          |N
+SUBTRAIDO                          |N
+SUBTRAIR                      SBTR |N
+SUCESSO                       SCS  |N
+SUFIXO                        SFX  |N
+SUGERIDO                           |N
+SUGERIR                       SUGR |N
+SUGESTAO                      SGT  |N
+SUINOCULTURA                  SUIC |N
+SUJEITO                       SJT  |N
+SUL                           SUL  |N
+SUMARIO                            |N
+SUMARIZADO                         |N
+SUMARIZAR                          |N
+SUMULA                             |N
+SUPER                         SUP  |N
+SUPERFICIE                    SUPF |N
+SUPERINTENDENCIA              SPCA |N
+SUPERIOR                      SUPR |N
+SUPERVENIENCIA                SPV  |N
+SUPERVISAO                    SPS  |N
+SUPERVISOR                    SPSR |N
+SUPLEMENTAR                   SUPL |N
+SUPORTE                       SPT  |N
+SUPRIDOR                           |N
+SUPRIMENTO                         |N
+SUSEP                         SUSP |N
+SUSPEITO                      SPTO |N
+SUSPENDER                     SPDR |N
+SUSPENSAO                     SPN  |N
+SUSPENSO                      SPNO |N
+SUSTENTABILIDADE              SSTB |N
+SWAP                          SWAP |N
+SWIFT                         SWFT |N
+SWITCH                        SWIT |N
+SWITCHED MAJOR NODE           SWMN |N
+SYSPLEX                       PLEX |N
+TAA                                |N
+TABELA                        TAB  |N
+TABLESPACE                    TBSP |N
+TAG                           TAG  |N
+TALAO                              |N
+TALENTO                       TLT  |N
+TALK                          TALK |N
+TALONARIO                     TLNR |N
+TAMANHO                       TAM  |N
+TANQUE                        TQUE |N
+TAREFA                        TRF  |N
+TARIFA                        TARF |N
+TARIFACAO                     TRFC |N
+TARIFARIO                     TARR |N
+TAXA                          TAXA |N
+TAXA BASICA FINANCEIRA        TBF  |N
+TAXA FLAT                     TXFT |N
+TAXA INTERNA DE RETORNO       TIR  |N
+TAXIONOMIA                         |N
+TAXONOMIA                     TXNM |N
+TBYTE                              |N
+TECNICO                       TCN  |N
+TECNOLOGIA                    TECN |N
+TECNOLOGIA DA INFORMACAO      TI   |N
+TECNOLOGICO                   TECC |N
+TELA                          TLA  |N
+TELECOMUNICACAO               TCMC |N
+TELECURSO                     TCSO |N
+TELEFONE                      TEL  |N
+TELEFONE CELULAR              TCEL |N
+TELEFONIA                     TLFN |N
+TELEFONICO                    TELC |N
+TELEGRAFIA                    TGF  |N
+TELEGRAFICO                   TGFC |N
+TELEMARKETING                 TMKT |N
+TELEMATICA                    TLMT |N
+TELEVISAO                     TV   |N
+TELEX                         TLX  |N
+TEMA                          TMA  |N
+TEMATICO                      TMAT |N
+TEMPO                         TMP  |N
+TEMPO DE RETORNO INVESTIMENTO      |N
+TEMPORAL                      TMPL |N
+TEMPORARIO                         |N
+TENDENCIA                     TND  |N
+TENTAR                        TNTR |N
+TENTATIVA                     TNT  |N
+TEOR                          TEOR |N
+TERABYTE                      TB   |N
+TERCEIRIZACAO                 TCR  |N
+TERCEIRIZADO                  TCRD |N
+TERCEIRO                      TRCO |N
+TERCEIROS                     TCRS |N
+TERMINAL                      TRML |N
+TERMINAL DE AUTO-ATENDIMENTO       |N
+TERMINAL DE AUTOATENDIMENTO   TAA  |N
+TERMINAL DE VIDEO             TVD  |N
+TERMINO                            |N
+TERMO                         TRM  |N
+TERRENO                       TRRN |N
+TERRESTRE                     TRRS |N
+TERRITORIAL                   TERL |N
+TERRITORIO                    TER  |N
+TESOURARIA                    TSR  |N
+TESOURO DIRETO                TD   |N
+TESOURO NACIONAL              TN   |N
+TESTE                              |N
+TESTEMUNHA                    TTM  |N
+TESTE2                        TSTE |N
+TESTE3                        TEST |N
+TETO                          TETO |N
+TEXTO                         TX   |S <-- NATUREZA
+THREAD                        THD  |N
+TI                                 |N
+TIMESTAMP                     TS   |S <-- NATUREZA
+TIPIFICACAO                   TIPF |N
+TIPO                          TIP  |N
+TIR                                |N
+TITULAR                       TITR |N
+TITULARIDADE                  TITD |N
+TITULO                        TIT  |N
+TITULO DA RUBRICA CONTABIL    TRC  |N
+TITULO DE ELEITOR             TELT |N
+TITULO ELEITORAL                   |N
+TITULOS E VALORES MOBILIARIOS TVM  |N
+TOLERANCIA                    TLR  |N
+TOLERAR                       TLRR |N
+TOMADA DE LINHA               TMDL |N
+TOMADOR                       TMDR |N
+TOMBO                              |N
+TONELADA                      TON  |N
+TOPICO                        TPCO |N
+TOPO                          TOP  |N
+TOTAL                         TTL  |N
+TOTALIZACAO                   TTLZ |N
+TOTALIZADOR                   TTLD |N
+TOTALIZAR                     TTLR |N
+TRABALHADO                    TRBD |N
+TRABALHADOR                   TRBR |N
+TRABALHISTA                   TBLT |N
+TRABALHO                      TRB  |N
+TRACAO                        TCAO |N
+TRADUCAO                      TDU  |N
+TRADUTOR                      TDUT |N
+TRAFEGO                       TRG  |N
+TRAILER                       TRL  |N
+TRAJETO                            |N
+TRAMITACAO                         |N
+TRANCADO                      TRCD |N
+TRANSACAO                     TRAN |N
+TRANSACAO DE NEGOCIO          TRNG |N
+TRANSACAO DE SISTEMA          TRST |N
+TRANSBORDO                    TRNB |N
+TRANSFERENCIA                 TRNS |N
+TRANSFERIDO                   TRND |N
+TRANSFERIR                    TRNI |N
+TRANSFORMACAO                      |N
+TRANSITO                      TST  |N
+TRANSITORIO                   TSTR |N
+TRANSMISSAO                   TRMS |N
+TRANSMITIDO                   TRMD |N
+TRANSPORTADOR                 TRNR |N
+TRANSPORTE                    TRNT |N
+TRAP                          TRAP |N
+TRATADO                       TRTD |N
+TRATAMENTO                    TRT  |N
+TRATAR                        TRTR |N
+TRATOR                        TTR  |N
+TRAVA                              |N
+TRAVELER CHECK                     |N
+TRAVESSIA                     TRV  |N
+TRD                           TRD  |N
+TRECHO                        TRCH |N
+TREINADO                      TRED |N
+TREINAMENTO                   TREI |N
+TREINANDO                     TREN |N
+TREM DE FERRO                 TMFR |N
+TRES                          TRES |N
+TRIBUNAL                      TRN  |N
+TRIBUTACAO                    TRBC |N
+TRIBUTARIO                    TRBA |N
+TRIBUTAVEL                    TRBV |N
+TRIBUTO                       TRBT |N
+TRIENIO                       TRIE |N
+TRILHA                        TRLA |N
+TRIMESTRE                     TIM  |N
+TRIPLE-DES                    TDES |N
+TROCA                              |N
+TROCO                         TROC |N
+TRONCO DE TELECOMUNICACAO     TRTL |N
+TRUSTED KEY ENTRY             TKE  |N
+TUBULACAO                     TUBL |N
+TUNEL                         TNL  |N
+TUPLA                              |N
+TURBINADO                     TBID |N
+TURISMO                       TUR  |N
+TURMA                         TURM |N
+TURNO                         TURN |N
+TUTOR                         TUT  |N
+UF                                 |N
+UFIR                          UFIR |N
+ULTIMO                        ULT  |N
+UM                            UM   |N
+UMIDADE                       UMDD |N
+UNIAO                              |N
+UNIAO ESTAVEL                 UNES |N
+UNICIDADE                     UNCD |N
+UNICO                         UNCO |N
+UNIDADE                       UND  |N
+UNIDADE ARMAZENADORA          UARM |N
+UNIDADE CENTRAL PROCESSAMENTO CPU  |N
+UNIDADE DA FEDERACAO          UF   |N
+UNIDADE DE MEDIDA             UMD  |N
+UNIDADE DE PRODUCAO           UPDC |N
+UNIDADE DE RESPOSTA AUDIVEL   URA  |N
+UNIDADE DE SERVICO DE TI      USTI |N
+UNIDADE FEDERADA                   |N
+UNIDADE FEDERATIVA                 |N
+UNIDADE LOGICA                LU   |N
+UNIDADE OPERACIONAL           UOP  |N
+UNIDADE ORGANIZACIONAL        UOR  |N
+UNIFICACAO                    UNC  |N
+UNIFICADO                     UNFD |N
+UNIFICAR                      UNFC |N
+UNIFORME                      UNFM |N
+UNIR                               |N
+UNITARIO                      UNT  |N
+UNIVERSAL                     UNVL |N
+UNIVERSAL RESOURCE LOCATOR    URL  |N
+UNIVERSIDADE                  UNIV |N
+UNIVERSITARIO                 UNIT |N
+UNIVERSO                      UNV  |N
+UOR                                |N
+URA                                |N
+URBANO                        URBN |N
+URGENTE                       URGT |N
+URL                                |N
+URV                           URV  |N
+USADO                              |N
+USER DATAGRAM PROTOCOL        UDP  |N
+USO                                |N
+USUAL                              |N
+USUARIO                       USU  |N
+UTENSILIO                     UTS  |N
+UTIL                          UTIL |N
+UTILITARIO                    UTLR |N
+UTILIZACAO                    UTZO |N
+UTILIZADO                     UTZD |N
+UTILIZADOR                    UTZR |N
+UTILIZAR                      UTZA |N
+VAGA                          VAGA |N
+VAGO                               |N
+VALE CONSUMO                  VCSM |N
+VALIDACAO                     VLDC |N
+VALIDADE                      VLD  |N
+VALIDADO                      VLDD |N
+VALIDAR                       VLDR |N
+VALIDO                        VLDO |N
+VALOR                         VL   |S <-- NATUREZA
+VALOR BASICO DE CUSTEIO       VBC  |N
+VALOR ECONOMICO AGREGADO      VEA  |N
+VALOR PRESENTE LIQUIDO        VPL  |N
+VALOR RESIDUAL GARANTIDO      VRG  |N
+VALORIZACAO                   VLZC |N
+VALORIZADO                    VLZD |N
+VAN                           VAN  |N
+VANTAGEM                      VTG  |N
+VAO                           VAO  |N
+VARA                          VARA |N
+VAREJO                        VRJ  |N
+VARIACAO                      VRC  |N
+VARIANCIA                     VRNC |N
+VARIAVEL                      VRV  |N
+VASTO                              |N
+VEA                                |N
+VEICULO                       VCLO |N
+VELOCIDADE                    VLCD |N
+VENCEDOR                      VNCR |N
+VENCER                        VNC  |N
+VENCIDO                       VCD  |N
+VENCIMENTO                    VNCT |N
+VENDA                         VND  |N
+VENDAVAL                      VDVL |N
+VENDEDOR                      VNDR |N
+VENDER                        VNR  |N
+VENDIDO                       VNDD |N
+VERAO                         VRAO |N
+VERBA                         VRB  |N
+VERDADEIRO                    VDDO |N
+VERIFICACAO                   VRF  |N
+VERIFICADOR VALIDADE CARTAO   CVV  |N
+VERIFICAR                     VRFR |N
+VERSAO                        VRS  |N
+VERTICAL                      VTCL |N
+VERTICE                       VTCE |N
+VIA                           VIA  |N
+VIABILIDADE                   VBD  |N
+VIADUTO                       VDT  |N
+VIAGEM                        VGM  |N
+VICE                          VICE |N
+VIDA                          VIDA |N
+VIDA UTIL                     VDTL |N
+VIDRO                         VDRO |N
+VIGENCIA                      VGC  |N
+VIGENTE                       VGT  |N
+VIGILANCIA                    VGLC |N
+VIGILANTE                     VGL  |N
+VINCENDO                      VNCD |N
+VINCULACAO                    VCLC |N
+VINCULADO                     VCLD |N
+VINCULADOR                    VCLR |N
+VINCULAR                      VNCL |N
+VINCULO                       VCL  |N
+VIOLACAO                      VIL  |N
+VIOLAR                        VILR |N
+VIOLENCIA                     VLNC |N
+VIP                           VIP  |N
+VIRTUAL                       VRT  |N
+VIRTUAL STORAGE ACCESS METHOD VSAM |N
+VISA                          VISA |N
+VISAO                         VS   |N
+VISAO MATERIALIZADA           VMTZ |N
+VISIBILIDADE                  VSI  |N
+VISITA                        VIS  |N
+VISITADA                      VISD |N
+VISITANTE                     VIST |N
+VISITAR                       VISR |N
+VISTO                         VITO |N
+VISTORIA                      VST  |N
+VISTORIADOR                   VSTO |N
+VISUAL                        VSL  |N
+VISUALIZACAO                  VSLO |N
+VITIMA                        VTMA |N
+VIZINHANCA                    VIZC |N
+VOLATIL                       VLTL |N
+VOLATILIDADE                  VLTD |N
+VOLTA                              |N
+VOLUME                        VLME |N
+VOLUME DO MASTER FILE         VMF  |N
+VOLUNTARIO                    VLT  |N
+VOO                           VOO  |N
+VOTACAO                       VTC  |N
+VOTANTE                       VTT  |N
+VOTO                          VOT  |N
+VPL                                |N
+VSAM                               |N
+VSAT                          VSAT |N
+VTOC                          VTOC |N
+WEB                                |N
+WESTERN UNION                 WSUN |N
+WIDE AREA INFORMATION SERVER  WAIS |N
+WIDE AREA NETWORK             WAN  |N
+WRITE ONCE READ MANY          WORM |N
+XID                           XID  |N
+XML                           XML  |N
+X121                          X121 |N
+ZERO                          ZERO |N
+ZONA                          ZONA |N
+ZONEAMENTO                    ZONT |N
+ZONEAR                        ZONR |N
+ZOOTECNIA                     ZOT  |N
+========================================================================
+Termos do tipo Natureza
+------------------------------------------------------------------------
+Nome	            Abrev	Descrição
+------------------------------------------------------------------------------------
+ANO	                AA	PERIODO DE TEMPO EQUIVALENTE A 365 DIAS.
+BLOB	            BL	BINARY LARGE OBJECT - SEQUENCIA LONGA DE NUMEROS BINARIOS QUE COMPOE UM OBJETO DE NATUREZA COMPLEXA
+CODIGO	            CD	IDENTIFICADOR ESTRUTURADO PARA RECONHECIMENTO DE SEUS COMPONENTES.
+DATA	            DT	INDICACAO PRECISA DE UM DIA, MES E ANO.
+DIA	                DD	PERIODO DE TEMPO DE 24 HORAS.
+DIGITO VERIFICADOR	DV	RESULTADO DE ALGORITIMO QUE VERIFICA SE UMA SEQUENCIA DE NUMEROS FOI DIGITADA CORRETAMENTE. DIGITO ADICIONAL INSERIDO NO TEXTO TRANSMITIDO PARA CONTROLEDE ERROS.
+GEOMETRIA			GEM	A MATEMÁTICA DAS PROPRIEDADES, MEDIDA E RELAÇÕES DOS PONTOS, LINHAS, ÂNGULOS, SUPERFÍCIES E SÓLIDOS (GEOMETRIA PLANA, GEOMETRIA ELEMENTAR, GEOMETRIA PROJETIVA). A MEDIDA DE UM DOS ELEMENTOS GEOMÉTRICOS.
+HORA	 			HH	PERIODO DE TEMPO DE 60 MINUTOS.
+HORARIO	 			HR	INDICACAO PRECISA DE UMA DETERMINADA HORA, MINUTO E SEGUNDO.
+IMAGEM	 			IM	REPRESENTACAO GRAFICA OU FOTOGRAFICA DE UM OBJETO OU PESSOA.
+INDICADOR			IN	QUE INDICA FALSO OU VERDADEIRO.NA IMPLEMENTACAO DO BANCO DE DADOS UTILIZAR CHAR (1)- (SIM OU NAO).
+INDICE				IC	RELACAO ENTRE GRANDEZAS NUMERICAS.
+LINHA				LNH	A LINHA é UMA SEQUêNCIA DE PONTOS, PODE SER INTERPRETADO COMO A CONEXãO DE DOIS PONTOS OU COMO UM PONTO EM MOVIMENTO. A LINHA é MAIS DINâMICA QUE O PONTO, POIS GERA A SENSAçãO DE MOVIMENTO, ISSO NOS PERMITE MANIPULAR O SENTIDO DE OBSERVAçãO DE UMA PEçA GRáFICA ATRAVéS DA DISTRIBUIçãO DAS LINHAS.
+LISTA				LS	ROL, RELACAO DE OBJETOS.
+MES					MM	PERIODO DE TEMPO, NORMALMENTE DE 30 DIAS.
+NOME				NM	DESIGNACAO PELA QUAL E CONHECIDA UMA PESSOA OU OBJETO.
+NUMERO				NR	IDENTIFICACAO DE DETERMINADO OBJETO, COMO NUMERO DA NOTA FISCAL, OU OUTRAS GRANDEZAS NUMERICAS NAO ABRANGIDAS NAS DEMAIS NATUREZAS.
+PERCENTUAL			PC	PRODUTO DA RELACAO ENTRE VALORES OU QUANTIDADES, GRADUADO EM PARTES POR CEM.
+PONTO				PTO	ELEMENTO GEOMéTRICO CONSIDERADO SEM DIMENSõES, APENAS COM POSIçãO.
+POLIGONO			PLGN	FIGURA PLANA LIMITADA POR SEGMENTOS DE RETA. AS LINHAS SãO CHAMADAS LADOS. A SOMA DOS LADOS é O PERíMETRO. OS âNGULOS FORMADOS PELOS LADOS SãO OS âNGULOS DO POLíGONO, E OS PONTOS DE ENCONTRO DOS LADOS SãO OS VéRTICES DO POLíGONO.
+QUANTIDADE			QT	NUMERO DE UNIDADES DE DETERMINADO OBJETO OU PESSOA.
+ROWID				RI	IDENTIFICADOR UNICO PARA AS LINHAS DE UMA TABELA QUE CONTEM COLUNA(S) DO TIPO LOB (LARGE OBJECT). ATENDE A UMA EXIGENCIA DO SGBD UTILIZADO (DB2), QUE SE RESPONSABILIZA POR GERENCIAR AUTOMATICAMENTE A GRAVACAO DO SEU CONTEUDO
+SIGLA				SG	ABREVIATURA, NAO PROSODICA, COMPOSTA DAS LETRAS DE UM NOME.
+SIMBOLO				SB	ELEMENTO GRAFICO OU OBJETO MATERIAL QUE REPRESENTA E/OU INDICA DE FORMA CONVENCIONAL UM ELEMENTO IMPORTANTE PARA O ESCLARECIMENTO/ENTENDIMENTO DE UMA REALIDADE COMPLEXA.SINAL INDICATIVO, SIGNO
+SOM					SM	FENOMENO ACUSTICO QUE CONSISTE NA PROPAGACAO DE ONDAS SONORAS.
+TEXTO				TX	CONJUNTO DE PALAVRAS UTILIZADAS PARA ESCLARECER ALGUMA COISA. CONTEÚDO ALFANUMÉRICO DE NATUREZA DIVERSIFICADA OU DESCONHECIDA.
+TIMESTAMP			TS	DATA, HORA, MINUTO E SEGUNDOS.
+VALOR				VL	IMPORTANCIA MONETARIA EXPRESSA EM DETERMINADA MOEDA.
